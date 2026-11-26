@@ -1,0 +1,7 @@
+# Ignorar arquivos compilados e pastas da IDE
+bin/
+*.class
+.vscode/
+
+# Ignorar os arquivos de dados gerados (pesados)
+dados/*.txt

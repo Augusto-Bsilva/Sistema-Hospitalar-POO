@@ -1,0 +1,1000 @@
+1;Carlos Souza;266.79;15;2026-06-09;Gripe,Infeccao;ISOLAMENTO
+2;Maria Oliveira;322.43;8;2026-09-05;Dor de Cabeca,Nausea;NEONATAL
+3;Lucas Almeida;252.32;5;2025-11-15;Nausea,Nausea;ENFERMARIA
+4;Maria Oliveira;416.30;18;2026-07-24;Gripe,Infeccao;UTI
+5;Juliana Lima;399.14;21;2026-09-13;Infeccao,Febre;UTI
+6;Ana Costa;398.43;23;2026-10-15;Infeccao,Nausea;ISOLAMENTO
+7;Maria Oliveira;171.66;3;2025-11-27;Tosse,Tosse;ISOLAMENTO
+8;Maria Oliveira;326.83;1;2025-12-05;Dor de Cabeca,Infeccao;ISOLAMENTO
+9;Joao Silva;216.53;1;2026-10-22;Nausea,Gripe;UTI
+10;Juliana Lima;218.37;7;2026-01-18;Gripe,Febre;UTI
+11;Lucas Almeida;353.51;20;2026-04-11;Dor de Cabeca,Gripe;ENFERMARIA
+12;Ana Costa;211.86;25;2026-10-15;Dor de Cabeca,Tosse;UTI
+13;Juliana Lima;215.39;5;2026-02-04;Infeccao,Tosse;NEONATAL
+14;Pedro Santos;261.17;22;2026-03-05;Nausea,Infeccao;ISOLAMENTO
+15;Pedro Santos;442.70;24;2026-11-06;Infeccao,Febre;ISOLAMENTO
+16;Carlos Souza;151.80;16;2026-01-18;Febre,Infeccao;ISOLAMENTO
+17;Carlos Souza;314.16;13;2025-11-22;Nausea,Dor de Cabeca;UTI
+18;Pedro Santos;409.10;4;2026-07-10;Nausea,Gripe;UTI
+19;Ana Costa;368.57;2;2026-01-15;Febre,Gripe;NEONATAL
+20;Pedro Santos;241.66;11;2026-06-21;Nausea,Tosse;NEONATAL
+21;Carlos Souza;349.23;2;2026-08-05;Tosse,Gripe;NEONATAL
+22;Carlos Souza;438.13;18;2026-09-16;Gripe,Infeccao;UTI
+23;Joao Silva;276.56;22;2026-06-03;Tosse,Dor de Cabeca;NEONATAL
+24;Maria Oliveira;310.87;6;2026-09-29;Febre,Tosse;ENFERMARIA
+25;Maria Oliveira;229.82;30;2025-11-17;Febre,Febre;UTI
+26;Ana Costa;354.76;21;2026-02-27;Infeccao,Infeccao;ENFERMARIA
+27;Joao Silva;193.87;10;2026-10-18;Dor de Cabeca,Dor de Cabeca;NEONATAL
+28;Joao Silva;164.58;27;2026-02-25;Nausea,Gripe;UTI
+29;Maria Oliveira;201.78;7;2026-08-27;Tosse,Tosse;NEONATAL
+30;Pedro Santos;429.28;23;2026-09-14;Febre,Infeccao;NEONATAL
+31;Lucas Almeida;179.06;2;2026-05-26;Nausea,Dor de Cabeca;UTI
+32;Ana Costa;196.47;27;2026-04-02;Febre,Infeccao;ISOLAMENTO
+33;Ana Costa;170.53;2;2026-08-11;Dor de Cabeca,Nausea;ISOLAMENTO
+34;Lucas Almeida;175.60;2;2026-10-15;Tosse,Febre;ENFERMARIA
+35;Carlos Souza;205.61;21;2026-03-14;Dor de Cabeca,Infeccao;ISOLAMENTO
+36;Juliana Lima;423.01;16;2026-03-28;Infeccao,Tosse;UTI
+37;Joao Silva;332.83;13;2026-09-19;Tosse,Gripe;ENFERMARIA
+38;Carlos Souza;327.46;8;2025-11-18;Tosse,Infeccao;NEONATAL
+39;Ana Costa;229.55;9;2025-12-06;Gripe,Tosse;ENFERMARIA
+40;Joao Silva;189.21;13;2026-05-26;Nausea,Febre;ISOLAMENTO
+41;Lucas Almeida;267.62;22;2026-06-10;Dor de Cabeca,Nausea;ISOLAMENTO
+42;Ana Costa;161.25;13;2026-08-25;Dor de Cabeca,Tosse;ENFERMARIA
+43;Ana Costa;290.96;10;2026-11-01;Nausea,Febre;UTI
+44;Pedro Santos;195.89;8;2026-05-04;Infeccao,Tosse;NEONATAL
+45;Joao Silva;235.81;13;2025-12-08;Dor de Cabeca,Dor de Cabeca;NEONATAL
+46;Juliana Lima;215.18;24;2026-03-29;Febre,Nausea;UTI
+47;Joao Silva;199.56;21;2026-08-13;Nausea,Nausea;ISOLAMENTO
+48;Juliana Lima;398.38;7;2026-05-12;Dor de Cabeca,Gripe;ENFERMARIA
+49;Maria Oliveira;339.07;29;2025-12-24;Nausea,Nausea;NEONATAL
+50;Lucas Almeida;355.03;9;2026-05-20;Gripe,Infeccao;UTI
+51;Lucas Almeida;154.22;24;2026-08-13;Tosse,Gripe;UTI
+52;Pedro Santos;226.75;16;2026-08-04;Nausea,Dor de Cabeca;NEONATAL
+53;Carlos Souza;387.63;13;2026-02-18;Febre,Gripe;UTI
+54;Maria Oliveira;236.35;4;2026-06-19;Nausea,Nausea;UTI
+55;Ana Costa;346.46;21;2026-05-17;Dor de Cabeca,Nausea;ISOLAMENTO
+56;Ana Costa;377.49;23;2026-07-24;Nausea,Nausea;UTI
+57;Lucas Almeida;326.98;2;2026-04-17;Febre,Nausea;ISOLAMENTO
+58;Pedro Santos;213.17;4;2026-01-14;Tosse,Nausea;ENFERMARIA
+59;Maria Oliveira;297.98;25;2025-12-13;Febre,Febre;ENFERMARIA
+60;Carlos Souza;326.70;25;2025-12-09;Tosse,Tosse;ISOLAMENTO
+61;Joao Silva;173.65;8;2026-02-12;Tosse,Gripe;ENFERMARIA
+62;Juliana Lima;443.13;27;2026-08-31;Tosse,Dor de Cabeca;ISOLAMENTO
+63;Ana Costa;182.09;10;2026-07-19;Gripe,Nausea;NEONATAL
+64;Ana Costa;414.78;9;2026-08-21;Gripe,Febre;ISOLAMENTO
+65;Maria Oliveira;209.92;12;2026-04-16;Gripe,Infeccao;NEONATAL
+66;Carlos Souza;439.15;4;2026-11-06;Dor de Cabeca,Dor de Cabeca;ENFERMARIA
+67;Maria Oliveira;379.24;18;2026-06-29;Tosse,Dor de Cabeca;ISOLAMENTO
+68;Maria Oliveira;252.51;3;2026-05-03;Tosse,Febre;UTI
+69;Lucas Almeida;387.53;15;2026-05-15;Gripe,Tosse;UTI
+70;Carlos Souza;417.61;11;2026-02-22;Tosse,Tosse;UTI
+71;Juliana Lima;316.43;24;2026-05-31;Febre,Tosse;ISOLAMENTO
+72;Ana Costa;198.78;6;2026-10-04;Tosse,Infeccao;ENFERMARIA
+73;Pedro Santos;290.35;7;2026-09-02;Tosse,Nausea;UTI
+74;Pedro Santos;392.92;12;2026-10-28;Gripe,Infeccao;ISOLAMENTO
+75;Lucas Almeida;340.63;16;2026-07-01;Febre,Dor de Cabeca;NEONATAL
+76;Pedro Santos;359.60;7;2026-10-16;Febre,Infeccao;ENFERMARIA
+77;Joao Silva;406.12;22;2026-01-01;Febre,Dor de Cabeca;NEONATAL
+78;Ana Costa;168.68;11;2026-10-20;Gripe,Infeccao;ISOLAMENTO
+79;Pedro Santos;176.24;10;2026-03-10;Infeccao,Febre;ENFERMARIA
+80;Pedro Santos;258.81;5;2026-11-08;Gripe,Gripe;UTI
+81;Carlos Souza;357.04;3;2025-11-17;Tosse,Infeccao;ENFERMARIA
+82;Joao Silva;375.22;26;2026-01-16;Gripe,Dor de Cabeca;ISOLAMENTO
+83;Maria Oliveira;416.46;10;2026-08-08;Dor de Cabeca,Nausea;ENFERMARIA
+84;Carlos Souza;230.07;4;2026-05-06;Infeccao,Nausea;NEONATAL
+85;Joao Silva;239.44;7;2026-07-03;Infeccao,Gripe;NEONATAL
+86;Carlos Souza;203.75;8;2026-11-02;Dor de Cabeca,Tosse;ISOLAMENTO
+87;Pedro Santos;298.72;25;2026-07-30;Infeccao,Tosse;ISOLAMENTO
+88;Juliana Lima;180.51;22;2026-02-23;Nausea,Dor de Cabeca;ISOLAMENTO
+89;Maria Oliveira;422.43;30;2026-08-18;Dor de Cabeca,Dor de Cabeca;ENFERMARIA
+90;Carlos Souza;386.84;10;2026-04-03;Infeccao,Infeccao;ISOLAMENTO
+91;Lucas Almeida;313.99;5;2026-07-18;Dor de Cabeca,Infeccao;ISOLAMENTO
+92;Juliana Lima;375.74;15;2026-06-22;Gripe,Febre;UTI
+93;Lucas Almeida;255.49;12;2026-07-25;Dor de Cabeca,Febre;NEONATAL
+94;Joao Silva;175.55;30;2026-04-16;Dor de Cabeca,Dor de Cabeca;ENFERMARIA
+95;Pedro Santos;200.18;24;2025-12-13;Infeccao,Gripe;UTI
+96;Lucas Almeida;196.40;10;2026-07-17;Tosse,Nausea;ENFERMARIA
+97;Lucas Almeida;335.09;1;2026-08-07;Tosse,Nausea;NEONATAL
+98;Ana Costa;162.89;10;2026-03-25;Febre,Dor de Cabeca;UTI
+99;Juliana Lima;269.48;27;2026-04-11;Febre,Febre;ISOLAMENTO
+100;Ana Costa;416.18;27;2026-03-09;Gripe,Dor de Cabeca;UTI
+101;Pedro Santos;380.23;27;2026-04-30;Tosse,Nausea;NEONATAL
+102;Carlos Souza;303.90;2;2025-12-03;Tosse,Dor de Cabeca;ENFERMARIA
+103;Juliana Lima;219.66;2;2026-09-23;Febre,Gripe;ISOLAMENTO
+104;Lucas Almeida;151.34;24;2026-10-31;Nausea,Tosse;UTI
+105;Maria Oliveira;367.06;30;2026-06-08;Nausea,Dor de Cabeca;ENFERMARIA
+106;Lucas Almeida;182.10;28;2026-09-14;Dor de Cabeca,Tosse;ENFERMARIA
+107;Juliana Lima;379.41;9;2026-07-27;Nausea,Tosse;ENFERMARIA
+108;Juliana Lima;331.71;26;2026-03-21;Gripe,Infeccao;ENFERMARIA
+109;Lucas Almeida;272.42;26;2026-07-26;Gripe,Nausea;ISOLAMENTO
+110;Pedro Santos;172.51;23;2026-06-30;Dor de Cabeca,Infeccao;NEONATAL
+111;Joao Silva;437.60;19;2026-05-06;Febre,Gripe;NEONATAL
+112;Pedro Santos;343.14;15;2026-07-07;Infeccao,Febre;NEONATAL
+113;Lucas Almeida;376.32;14;2026-02-15;Nausea,Dor de Cabeca;UTI
+114;Juliana Lima;351.08;11;2025-12-03;Febre,Dor de Cabeca;ISOLAMENTO
+115;Joao Silva;306.59;14;2026-01-10;Gripe,Febre;ENFERMARIA
+116;Maria Oliveira;291.47;12;2025-12-17;Tosse,Febre;ENFERMARIA
+117;Carlos Souza;173.55;6;2026-05-06;Tosse,Dor de Cabeca;UTI
+118;Lucas Almeida;300.69;27;2026-01-02;Infeccao,Gripe;ISOLAMENTO
+119;Maria Oliveira;269.48;12;2026-03-21;Infeccao,Febre;NEONATAL
+120;Juliana Lima;338.00;7;2026-06-24;Infeccao,Infeccao;NEONATAL
+121;Carlos Souza;244.13;13;2026-02-07;Gripe,Gripe;UTI
+122;Juliana Lima;263.58;29;2025-12-04;Gripe,Infeccao;ENFERMARIA
+123;Lucas Almeida;261.35;28;2026-04-26;Tosse,Febre;NEONATAL
+124;Maria Oliveira;256.40;29;2026-08-08;Tosse,Nausea;NEONATAL
+125;Carlos Souza;332.78;17;2026-03-03;Gripe,Dor de Cabeca;NEONATAL
+126;Carlos Souza;190.23;5;2025-12-25;Infeccao,Febre;ENFERMARIA
+127;Pedro Santos;234.49;4;2026-10-04;Dor de Cabeca,Tosse;UTI
+128;Juliana Lima;261.12;25;2026-06-28;Febre,Tosse;ENFERMARIA
+129;Pedro Santos;387.45;20;2026-07-31;Dor de Cabeca,Infeccao;ISOLAMENTO
+130;Ana Costa;434.82;29;2026-05-10;Infeccao,Tosse;ENFERMARIA
+131;Pedro Santos;257.65;2;2026-07-20;Tosse,Febre;ISOLAMENTO
+132;Maria Oliveira;257.31;28;2026-09-15;Infeccao,Nausea;UTI
+133;Carlos Souza;206.75;16;2026-07-14;Dor de Cabeca,Dor de Cabeca;NEONATAL
+134;Juliana Lima;347.08;5;2026-05-24;Tosse,Infeccao;UTI
+135;Pedro Santos;199.18;19;2026-10-26;Gripe,Dor de Cabeca;ISOLAMENTO
+136;Maria Oliveira;362.18;6;2025-12-30;Dor de Cabeca,Dor de Cabeca;UTI
+137;Maria Oliveira;246.38;3;2026-03-03;Febre,Gripe;ISOLAMENTO
+138;Lucas Almeida;310.71;7;2025-11-15;Nausea,Tosse;UTI
+139;Juliana Lima;344.27;1;2026-08-18;Infeccao,Infeccao;ISOLAMENTO
+140;Ana Costa;447.89;9;2026-01-06;Febre,Dor de Cabeca;ISOLAMENTO
+141;Lucas Almeida;434.58;30;2026-08-21;Dor de Cabeca,Febre;ENFERMARIA
+142;Ana Costa;178.19;15;2026-01-19;Gripe,Febre;NEONATAL
+143;Maria Oliveira;396.09;16;2025-12-01;Infeccao,Dor de Cabeca;ISOLAMENTO
+144;Carlos Souza;355.87;4;2026-07-25;Nausea,Dor de Cabeca;ISOLAMENTO
+145;Joao Silva;446.52;22;2026-09-09;Gripe,Infeccao;ENFERMARIA
+146;Joao Silva;252.17;14;2026-08-17;Nausea,Infeccao;ISOLAMENTO
+147;Pedro Santos;310.95;13;2026-05-07;Dor de Cabeca,Febre;NEONATAL
+148;Joao Silva;332.71;11;2026-06-16;Tosse,Infeccao;UTI
+149;Pedro Santos;387.70;1;2026-05-13;Febre,Nausea;NEONATAL
+150;Ana Costa;163.27;25;2026-02-03;Gripe,Infeccao;UTI
+151;Juliana Lima;417.43;2;2026-02-05;Tosse,Infeccao;UTI
+152;Maria Oliveira;337.43;28;2026-03-07;Febre,Nausea;ENFERMARIA
+153;Joao Silva;236.37;25;2026-11-06;Nausea,Nausea;UTI
+154;Lucas Almeida;294.39;6;2026-08-31;Febre,Febre;ISOLAMENTO
+155;Joao Silva;369.53;1;2026-11-09;Nausea,Nausea;NEONATAL
+156;Pedro Santos;170.30;30;2026-08-04;Tosse,Infeccao;NEONATAL
+157;Pedro Santos;294.81;2;2026-06-01;Febre,Nausea;NEONATAL
+158;Carlos Souza;201.54;17;2026-10-24;Tosse,Gripe;ISOLAMENTO
+159;Joao Silva;383.73;8;2026-09-26;Nausea,Febre;UTI
+160;Carlos Souza;273.16;14;2026-05-09;Febre,Gripe;UTI
+161;Joao Silva;399.76;8;2026-08-14;Tosse,Nausea;ENFERMARIA
+162;Maria Oliveira;181.09;5;2026-08-20;Dor de Cabeca,Infeccao;ENFERMARIA
+163;Ana Costa;410.11;24;2026-03-09;Infeccao,Gripe;NEONATAL
+164;Pedro Santos;351.15;21;2026-06-30;Gripe,Tosse;UTI
+165;Carlos Souza;441.72;24;2026-09-19;Nausea,Tosse;ENFERMARIA
+166;Juliana Lima;433.55;29;2026-07-28;Dor de Cabeca,Infeccao;ISOLAMENTO
+167;Joao Silva;387.45;29;2026-07-04;Tosse,Gripe;ENFERMARIA
+168;Joao Silva;165.99;14;2026-04-20;Nausea,Tosse;ISOLAMENTO
+169;Carlos Souza;243.26;5;2026-05-04;Dor de Cabeca,Febre;NEONATAL
+170;Lucas Almeida;373.83;21;2025-12-03;Nausea,Febre;ISOLAMENTO
+171;Joao Silva;232.22;1;2026-01-24;Dor de Cabeca,Gripe;ENFERMARIA
+172;Juliana Lima;250.72;20;2026-06-05;Dor de Cabeca,Infeccao;NEONATAL
+173;Ana Costa;446.32;29;2025-12-20;Infeccao,Nausea;ISOLAMENTO
+174;Ana Costa;337.94;30;2026-03-14;Infeccao,Nausea;ISOLAMENTO
+175;Maria Oliveira;311.70;19;2026-03-30;Nausea,Nausea;UTI
+176;Joao Silva;295.94;22;2026-06-20;Gripe,Nausea;UTI
+177;Pedro Santos;358.52;23;2026-07-12;Infeccao,Gripe;UTI
+178;Maria Oliveira;436.27;29;2026-08-12;Dor de Cabeca,Nausea;NEONATAL
+179;Maria Oliveira;150.95;19;2026-04-01;Gripe,Tosse;UTI
+180;Carlos Souza;157.50;15;2026-05-04;Tosse,Febre;NEONATAL
+181;Joao Silva;408.42;30;2026-04-05;Nausea,Nausea;NEONATAL
+182;Joao Silva;303.22;23;2026-10-15;Infeccao,Tosse;NEONATAL
+183;Ana Costa;323.84;3;2026-09-10;Gripe,Gripe;NEONATAL
+184;Pedro Santos;335.70;27;2026-04-17;Infeccao,Gripe;NEONATAL
+185;Joao Silva;359.75;15;2026-10-06;Febre,Nausea;ISOLAMENTO
+186;Lucas Almeida;193.45;4;2026-01-19;Infeccao,Dor de Cabeca;ISOLAMENTO
+187;Pedro Santos;178.09;24;2026-06-13;Dor de Cabeca,Infeccao;ENFERMARIA
+188;Juliana Lima;276.01;20;2026-02-19;Febre,Dor de Cabeca;NEONATAL
+189;Juliana Lima;334.69;18;2026-04-05;Nausea,Dor de Cabeca;ENFERMARIA
+190;Lucas Almeida;274.52;24;2026-08-01;Dor de Cabeca,Febre;UTI
+191;Maria Oliveira;244.16;8;2026-06-05;Dor de Cabeca,Nausea;ISOLAMENTO
+192;Lucas Almeida;341.16;20;2025-12-24;Tosse,Dor de Cabeca;NEONATAL
+193;Pedro Santos;296.07;11;2026-06-27;Dor de Cabeca,Febre;NEONATAL
+194;Carlos Souza;366.06;21;2026-03-21;Tosse,Infeccao;NEONATAL
+195;Pedro Santos;178.32;27;2025-12-30;Tosse,Nausea;ISOLAMENTO
+196;Maria Oliveira;404.86;7;2026-01-23;Febre,Infeccao;ISOLAMENTO
+197;Carlos Souza;238.57;20;2026-09-15;Febre,Nausea;ENFERMARIA
+198;Ana Costa;275.41;30;2026-06-19;Tosse,Nausea;UTI
+199;Maria Oliveira;189.51;24;2026-05-03;Infeccao,Dor de Cabeca;ENFERMARIA
+200;Maria Oliveira;316.89;24;2025-11-15;Gripe,Gripe;ENFERMARIA
+201;Lucas Almeida;338.93;18;2026-05-18;Gripe,Nausea;NEONATAL
+202;Juliana Lima;279.73;11;2026-01-18;Infeccao,Gripe;UTI
+203;Joao Silva;400.35;29;2026-07-15;Tosse,Febre;ISOLAMENTO
+204;Pedro Santos;289.74;19;2026-03-26;Gripe,Nausea;ISOLAMENTO
+205;Pedro Santos;315.13;15;2026-03-14;Tosse,Febre;NEONATAL
+206;Joao Silva;404.65;22;2026-10-08;Febre,Infeccao;NEONATAL
+207;Pedro Santos;391.98;20;2026-01-06;Febre,Infeccao;ENFERMARIA
+208;Maria Oliveira;156.70;14;2026-04-04;Gripe,Infeccao;ISOLAMENTO
+209;Joao Silva;244.53;7;2025-11-15;Gripe,Nausea;ENFERMARIA
+210;Ana Costa;449.31;30;2026-03-18;Infeccao,Gripe;ENFERMARIA
+211;Maria Oliveira;283.05;13;2026-09-12;Infeccao,Dor de Cabeca;UTI
+212;Ana Costa;351.47;14;2026-10-02;Gripe,Febre;ENFERMARIA
+213;Pedro Santos;291.02;27;2026-10-16;Tosse,Nausea;ISOLAMENTO
+214;Lucas Almeida;307.99;3;2025-11-21;Gripe,Gripe;ENFERMARIA
+215;Carlos Souza;192.52;11;2026-02-03;Dor de Cabeca,Febre;ISOLAMENTO
+216;Carlos Souza;259.18;21;2026-03-14;Nausea,Febre;ISOLAMENTO
+217;Maria Oliveira;391.17;19;2025-12-24;Dor de Cabeca,Gripe;ENFERMARIA
+218;Carlos Souza;438.13;21;2026-02-27;Gripe,Gripe;ISOLAMENTO
+219;Maria Oliveira;336.62;14;2026-08-09;Dor de Cabeca,Febre;ENFERMARIA
+220;Ana Costa;389.02;14;2026-05-12;Nausea,Gripe;NEONATAL
+221;Maria Oliveira;349.33;19;2026-10-24;Nausea,Gripe;UTI
+222;Pedro Santos;224.91;29;2026-06-18;Infeccao,Gripe;NEONATAL
+223;Juliana Lima;409.63;20;2026-08-17;Infeccao,Dor de Cabeca;UTI
+224;Pedro Santos;418.20;17;2025-11-23;Gripe,Nausea;NEONATAL
+225;Maria Oliveira;191.72;14;2026-03-18;Gripe,Infeccao;ISOLAMENTO
+226;Pedro Santos;392.27;3;2026-07-20;Dor de Cabeca,Infeccao;NEONATAL
+227;Juliana Lima;198.76;16;2026-08-31;Nausea,Infeccao;UTI
+228;Joao Silva;157.54;24;2026-02-18;Febre,Dor de Cabeca;UTI
+229;Pedro Santos;329.53;10;2026-06-10;Infeccao,Tosse;ENFERMARIA
+230;Pedro Santos;310.43;17;2025-11-28;Gripe,Tosse;NEONATAL
+231;Pedro Santos;382.97;4;2026-04-08;Tosse,Infeccao;UTI
+232;Ana Costa;288.45;13;2026-04-20;Febre,Tosse;NEONATAL
+233;Ana Costa;180.97;5;2026-08-04;Febre,Dor de Cabeca;UTI
+234;Ana Costa;249.89;24;2025-12-28;Febre,Febre;NEONATAL
+235;Juliana Lima;365.77;28;2026-07-05;Dor de Cabeca,Dor de Cabeca;ENFERMARIA
+236;Lucas Almeida;321.40;2;2026-09-07;Nausea,Dor de Cabeca;NEONATAL
+237;Carlos Souza;202.35;22;2026-07-20;Febre,Tosse;ISOLAMENTO
+238;Lucas Almeida;331.89;2;2025-11-23;Gripe,Nausea;NEONATAL
+239;Maria Oliveira;192.04;11;2025-12-01;Infeccao,Nausea;ISOLAMENTO
+240;Carlos Souza;225.96;20;2025-11-18;Nausea,Dor de Cabeca;ENFERMARIA
+241;Ana Costa;278.06;25;2025-12-11;Febre,Gripe;ISOLAMENTO
+242;Maria Oliveira;225.44;17;2026-01-29;Nausea,Febre;NEONATAL
+243;Maria Oliveira;398.77;23;2026-03-09;Infeccao,Febre;NEONATAL
+244;Lucas Almeida;182.19;2;2025-12-10;Nausea,Infeccao;NEONATAL
+245;Maria Oliveira;319.67;18;2026-05-23;Nausea,Infeccao;UTI
+246;Lucas Almeida;340.70;1;2026-01-27;Tosse,Febre;NEONATAL
+247;Maria Oliveira;249.85;4;2026-03-22;Nausea,Gripe;ISOLAMENTO
+248;Carlos Souza;403.64;20;2026-08-18;Nausea,Gripe;ENFERMARIA
+249;Maria Oliveira;223.86;11;2026-03-28;Dor de Cabeca,Gripe;UTI
+250;Juliana Lima;168.98;11;2026-11-12;Infeccao,Dor de Cabeca;ISOLAMENTO
+251;Joao Silva;204.80;29;2026-11-05;Febre,Febre;NEONATAL
+252;Pedro Santos;281.76;8;2026-02-16;Infeccao,Nausea;ISOLAMENTO
+253;Maria Oliveira;239.46;25;2026-03-14;Febre,Febre;NEONATAL
+254;Carlos Souza;219.12;21;2026-08-29;Dor de Cabeca,Nausea;NEONATAL
+255;Pedro Santos;371.51;12;2026-01-22;Gripe,Infeccao;NEONATAL
+256;Pedro Santos;301.80;28;2026-08-03;Nausea,Febre;UTI
+257;Carlos Souza;393.40;8;2026-02-19;Dor de Cabeca,Nausea;ENFERMARIA
+258;Maria Oliveira;200.44;5;2026-02-20;Infeccao,Dor de Cabeca;ENFERMARIA
+259;Ana Costa;192.98;7;2026-07-07;Infeccao,Tosse;UTI
+260;Juliana Lima;280.25;14;2026-06-27;Tosse,Infeccao;ENFERMARIA
+261;Maria Oliveira;325.66;18;2026-08-25;Gripe,Nausea;ENFERMARIA
+262;Ana Costa;202.09;18;2026-06-05;Dor de Cabeca,Tosse;UTI
+263;Pedro Santos;417.96;27;2026-06-11;Gripe,Febre;NEONATAL
+264;Lucas Almeida;373.67;9;2026-06-17;Gripe,Nausea;NEONATAL
+265;Lucas Almeida;283.25;22;2025-12-10;Dor de Cabeca,Tosse;ISOLAMENTO
+266;Joao Silva;218.93;8;2026-07-25;Febre,Tosse;NEONATAL
+267;Pedro Santos;305.69;6;2026-09-21;Febre,Infeccao;NEONATAL
+268;Maria Oliveira;209.12;11;2026-09-26;Tosse,Dor de Cabeca;ENFERMARIA
+269;Juliana Lima;423.08;2;2026-02-18;Tosse,Dor de Cabeca;UTI
+270;Maria Oliveira;273.92;23;2026-06-29;Tosse,Infeccao;ENFERMARIA
+271;Maria Oliveira;414.55;26;2026-07-05;Infeccao,Dor de Cabeca;ISOLAMENTO
+272;Joao Silva;185.95;17;2026-11-10;Febre,Nausea;UTI
+273;Maria Oliveira;373.93;12;2026-05-24;Gripe,Infeccao;NEONATAL
+274;Ana Costa;386.95;8;2026-07-30;Dor de Cabeca,Nausea;NEONATAL
+275;Ana Costa;324.71;28;2026-06-30;Nausea,Nausea;ISOLAMENTO
+276;Ana Costa;299.17;11;2026-04-30;Febre,Nausea;ISOLAMENTO
+277;Ana Costa;407.31;29;2026-05-04;Infeccao,Dor de Cabeca;ISOLAMENTO
+278;Maria Oliveira;240.15;23;2026-10-21;Nausea,Febre;ENFERMARIA
+279;Joao Silva;444.75;16;2026-08-14;Febre,Nausea;ISOLAMENTO
+280;Lucas Almeida;234.29;9;2026-09-20;Febre,Infeccao;UTI
+281;Juliana Lima;167.33;9;2026-05-09;Gripe,Febre;UTI
+282;Joao Silva;189.73;20;2026-01-09;Gripe,Dor de Cabeca;ENFERMARIA
+283;Juliana Lima;252.34;24;2025-12-01;Dor de Cabeca,Gripe;ENFERMARIA
+284;Ana Costa;283.59;24;2026-02-06;Nausea,Febre;ISOLAMENTO
+285;Joao Silva;209.60;26;2026-01-02;Febre,Gripe;ENFERMARIA
+286;Carlos Souza;174.27;26;2026-04-10;Dor de Cabeca,Gripe;ISOLAMENTO
+287;Ana Costa;318.77;4;2026-05-20;Febre,Nausea;UTI
+288;Pedro Santos;233.90;24;2026-05-20;Tosse,Febre;ISOLAMENTO
+289;Juliana Lima;199.07;11;2026-11-12;Dor de Cabeca,Nausea;ENFERMARIA
+290;Lucas Almeida;269.48;27;2025-12-28;Infeccao,Dor de Cabeca;UTI
+291;Pedro Santos;167.60;9;2025-11-16;Dor de Cabeca,Febre;ISOLAMENTO
+292;Pedro Santos;275.93;27;2026-06-09;Infeccao,Gripe;ISOLAMENTO
+293;Maria Oliveira;216.82;30;2026-06-24;Dor de Cabeca,Nausea;NEONATAL
+294;Pedro Santos;339.52;19;2026-09-08;Febre,Febre;ENFERMARIA
+295;Pedro Santos;217.21;3;2026-02-10;Infeccao,Infeccao;NEONATAL
+296;Joao Silva;184.98;17;2026-04-25;Nausea,Infeccao;ENFERMARIA
+297;Ana Costa;225.93;13;2026-09-25;Tosse,Febre;NEONATAL
+298;Carlos Souza;434.68;15;2026-02-14;Febre,Nausea;ISOLAMENTO
+299;Juliana Lima;157.36;28;2026-01-13;Nausea,Tosse;NEONATAL
+300;Joao Silva;223.20;21;2026-01-10;Febre,Febre;NEONATAL
+301;Pedro Santos;246.28;24;2025-12-18;Dor de Cabeca,Dor de Cabeca;UTI
+302;Maria Oliveira;285.68;21;2026-10-18;Gripe,Nausea;ENFERMARIA
+303;Ana Costa;209.74;29;2026-11-12;Febre,Tosse;UTI
+304;Pedro Santos;313.32;21;2026-10-14;Febre,Infeccao;ISOLAMENTO
+305;Carlos Souza;188.28;14;2026-11-10;Infeccao,Tosse;NEONATAL
+306;Carlos Souza;444.35;3;2026-02-04;Febre,Gripe;NEONATAL
+307;Maria Oliveira;322.49;6;2026-06-18;Infeccao,Infeccao;ISOLAMENTO
+308;Maria Oliveira;333.85;9;2026-04-14;Febre,Nausea;ISOLAMENTO
+309;Juliana Lima;395.70;27;2025-12-20;Gripe,Dor de Cabeca;ISOLAMENTO
+310;Lucas Almeida;420.83;8;2026-02-14;Dor de Cabeca,Gripe;UTI
+311;Lucas Almeida;448.72;1;2026-10-21;Dor de Cabeca,Dor de Cabeca;ENFERMARIA
+312;Maria Oliveira;185.79;2;2026-04-07;Infeccao,Infeccao;UTI
+313;Lucas Almeida;347.41;29;2026-10-01;Nausea,Infeccao;ISOLAMENTO
+314;Lucas Almeida;267.30;20;2025-12-22;Febre,Gripe;UTI
+315;Carlos Souza;259.02;13;2026-06-04;Infeccao,Gripe;ENFERMARIA
+316;Lucas Almeida;380.81;20;2026-11-05;Tosse,Dor de Cabeca;ENFERMARIA
+317;Juliana Lima;168.10;17;2026-06-12;Febre,Infeccao;ISOLAMENTO
+318;Maria Oliveira;358.12;23;2026-10-08;Nausea,Infeccao;ENFERMARIA
+319;Juliana Lima;237.89;18;2026-01-15;Dor de Cabeca,Dor de Cabeca;ISOLAMENTO
+320;Carlos Souza;300.89;27;2025-12-11;Tosse,Febre;ENFERMARIA
+321;Ana Costa;298.01;15;2026-09-11;Dor de Cabeca,Infeccao;NEONATAL
+322;Ana Costa;416.47;9;2026-08-28;Febre,Dor de Cabeca;UTI
+323;Pedro Santos;414.28;20;2026-09-24;Nausea,Infeccao;ENFERMARIA
+324;Pedro Santos;279.51;9;2026-03-16;Tosse,Infeccao;NEONATAL
+325;Lucas Almeida;371.66;28;2026-07-20;Dor de Cabeca,Tosse;ISOLAMENTO
+326;Carlos Souza;337.56;4;2025-11-18;Nausea,Nausea;ENFERMARIA
+327;Pedro Santos;175.98;20;2026-09-17;Febre,Nausea;ENFERMARIA
+328;Maria Oliveira;154.25;25;2026-08-28;Dor de Cabeca,Nausea;UTI
+329;Juliana Lima;155.51;30;2026-08-12;Febre,Tosse;ISOLAMENTO
+330;Ana Costa;258.16;11;2025-12-10;Nausea,Infeccao;ISOLAMENTO
+331;Maria Oliveira;218.08;18;2026-06-02;Nausea,Tosse;ENFERMARIA
+332;Lucas Almeida;440.92;12;2026-05-11;Infeccao,Febre;ENFERMARIA
+333;Ana Costa;294.67;13;2026-06-21;Infeccao,Gripe;ISOLAMENTO
+334;Ana Costa;322.80;9;2026-02-16;Febre,Nausea;UTI
+335;Ana Costa;175.38;20;2025-11-22;Infeccao,Febre;NEONATAL
+336;Maria Oliveira;279.18;5;2025-12-23;Dor de Cabeca,Dor de Cabeca;UTI
+337;Lucas Almeida;318.53;19;2026-10-15;Dor de Cabeca,Febre;ENFERMARIA
+338;Maria Oliveira;296.31;4;2026-03-09;Infeccao,Nausea;ISOLAMENTO
+339;Maria Oliveira;188.82;24;2026-09-06;Febre,Gripe;NEONATAL
+340;Juliana Lima;399.59;8;2026-08-28;Febre,Nausea;ENFERMARIA
+341;Lucas Almeida;355.42;6;2026-06-16;Febre,Tosse;NEONATAL
+342;Carlos Souza;372.91;22;2026-10-13;Febre,Infeccao;ENFERMARIA
+343;Pedro Santos;255.82;1;2026-06-15;Tosse,Nausea;NEONATAL
+344;Carlos Souza;162.21;13;2026-08-16;Febre,Gripe;UTI
+345;Ana Costa;406.25;25;2026-02-01;Febre,Nausea;ISOLAMENTO
+346;Joao Silva;331.79;7;2026-09-17;Tosse,Tosse;NEONATAL
+347;Ana Costa;214.68;19;2026-03-11;Infeccao,Dor de Cabeca;ISOLAMENTO
+348;Ana Costa;216.64;26;2026-05-08;Tosse,Gripe;UTI
+349;Lucas Almeida;327.09;27;2026-06-05;Tosse,Infeccao;ENFERMARIA
+350;Carlos Souza;189.14;9;2026-08-26;Infeccao,Tosse;NEONATAL
+351;Maria Oliveira;212.96;4;2026-07-23;Febre,Dor de Cabeca;UTI
+352;Pedro Santos;433.57;18;2026-05-25;Nausea,Gripe;ENFERMARIA
+353;Pedro Santos;370.82;30;2026-06-28;Dor de Cabeca,Febre;UTI
+354;Joao Silva;396.69;3;2026-05-03;Gripe,Infeccao;ISOLAMENTO
+355;Juliana Lima;309.76;9;2026-01-28;Gripe,Gripe;ISOLAMENTO
+356;Carlos Souza;157.81;6;2026-01-22;Dor de Cabeca,Dor de Cabeca;NEONATAL
+357;Pedro Santos;337.66;22;2026-01-23;Febre,Febre;NEONATAL
+358;Juliana Lima;236.71;28;2026-07-05;Febre,Febre;ISOLAMENTO
+359;Pedro Santos;262.11;2;2026-04-01;Dor de Cabeca,Febre;NEONATAL
+360;Carlos Souza;332.77;29;2026-07-07;Nausea,Nausea;NEONATAL
+361;Maria Oliveira;184.78;7;2026-07-27;Febre,Gripe;ISOLAMENTO
+362;Joao Silva;263.55;12;2026-09-06;Nausea,Dor de Cabeca;UTI
+363;Maria Oliveira;245.23;21;2026-10-25;Dor de Cabeca,Nausea;ENFERMARIA
+364;Maria Oliveira;446.48;27;2026-07-16;Dor de Cabeca,Dor de Cabeca;UTI
+365;Ana Costa;444.82;17;2026-04-17;Gripe,Tosse;ENFERMARIA
+366;Carlos Souza;241.59;9;2025-12-18;Nausea,Dor de Cabeca;ISOLAMENTO
+367;Joao Silva;256.84;19;2026-09-09;Infeccao,Infeccao;UTI
+368;Maria Oliveira;349.07;20;2026-07-09;Dor de Cabeca,Nausea;ENFERMARIA
+369;Pedro Santos;203.44;29;2026-05-24;Nausea,Gripe;ISOLAMENTO
+370;Joao Silva;229.71;17;2026-02-13;Tosse,Infeccao;NEONATAL
+371;Lucas Almeida;155.46;14;2026-08-27;Tosse,Dor de Cabeca;ENFERMARIA
+372;Pedro Santos;191.71;4;2026-04-02;Dor de Cabeca,Infeccao;ENFERMARIA
+373;Joao Silva;285.85;25;2026-03-08;Nausea,Nausea;NEONATAL
+374;Joao Silva;162.26;28;2026-05-04;Tosse,Infeccao;ENFERMARIA
+375;Carlos Souza;182.64;14;2026-07-16;Nausea,Dor de Cabeca;ENFERMARIA
+376;Lucas Almeida;437.07;23;2026-08-28;Infeccao,Nausea;NEONATAL
+377;Ana Costa;402.29;12;2026-10-14;Tosse,Tosse;ENFERMARIA
+378;Pedro Santos;176.49;8;2026-03-12;Febre,Infeccao;UTI
+379;Carlos Souza;319.23;22;2026-03-18;Gripe,Gripe;UTI
+380;Pedro Santos;291.26;8;2026-09-19;Tosse,Nausea;NEONATAL
+381;Ana Costa;302.55;2;2026-03-05;Tosse,Tosse;ENFERMARIA
+382;Joao Silva;336.50;24;2026-06-22;Tosse,Infeccao;ENFERMARIA
+383;Joao Silva;425.59;10;2026-05-25;Gripe,Infeccao;NEONATAL
+384;Pedro Santos;407.21;16;2026-05-13;Infeccao,Tosse;NEONATAL
+385;Carlos Souza;289.41;19;2025-12-19;Gripe,Febre;ISOLAMENTO
+386;Pedro Santos;203.59;23;2026-02-24;Dor de Cabeca,Infeccao;ISOLAMENTO
+387;Maria Oliveira;415.83;26;2026-07-17;Febre,Febre;UTI
+388;Juliana Lima;409.61;14;2026-10-23;Infeccao,Febre;UTI
+389;Pedro Santos;341.12;3;2026-09-10;Febre,Dor de Cabeca;NEONATAL
+390;Ana Costa;203.19;29;2026-08-01;Nausea,Gripe;UTI
+391;Lucas Almeida;315.98;29;2026-06-14;Tosse,Febre;UTI
+392;Pedro Santos;391.27;7;2026-01-21;Gripe,Nausea;UTI
+393;Pedro Santos;392.85;8;2026-05-27;Gripe,Infeccao;ISOLAMENTO
+394;Pedro Santos;438.24;10;2026-03-26;Dor de Cabeca,Infeccao;ENFERMARIA
+395;Carlos Souza;356.22;17;2026-04-12;Gripe,Tosse;ISOLAMENTO
+396;Juliana Lima;231.00;10;2026-01-26;Febre,Tosse;ENFERMARIA
+397;Ana Costa;427.08;21;2026-05-02;Febre,Infeccao;NEONATAL
+398;Ana Costa;399.04;8;2025-11-18;Infeccao,Tosse;UTI
+399;Lucas Almeida;347.00;22;2026-09-17;Infeccao,Nausea;UTI
+400;Carlos Souza;182.94;22;2026-01-20;Nausea,Dor de Cabeca;NEONATAL
+401;Juliana Lima;223.06;17;2026-07-17;Dor de Cabeca,Febre;NEONATAL
+402;Carlos Souza;319.58;14;2026-05-02;Dor de Cabeca,Dor de Cabeca;ENFERMARIA
+403;Maria Oliveira;289.22;19;2026-08-16;Gripe,Gripe;NEONATAL
+404;Juliana Lima;187.44;28;2026-05-10;Tosse,Nausea;ISOLAMENTO
+405;Pedro Santos;415.17;10;2026-05-17;Gripe,Infeccao;NEONATAL
+406;Joao Silva;430.39;12;2025-11-29;Nausea,Gripe;UTI
+407;Juliana Lima;268.36;6;2026-05-02;Infeccao,Febre;ENFERMARIA
+408;Maria Oliveira;153.32;16;2026-10-15;Nausea,Dor de Cabeca;ISOLAMENTO
+409;Ana Costa;210.29;28;2026-01-12;Dor de Cabeca,Tosse;NEONATAL
+410;Ana Costa;357.87;24;2026-01-12;Dor de Cabeca,Febre;NEONATAL
+411;Juliana Lima;382.61;25;2026-05-22;Febre,Gripe;ENFERMARIA
+412;Joao Silva;161.76;26;2026-10-16;Tosse,Nausea;ISOLAMENTO
+413;Ana Costa;314.22;15;2026-11-06;Gripe,Nausea;ISOLAMENTO
+414;Juliana Lima;320.02;25;2026-02-22;Nausea,Gripe;UTI
+415;Carlos Souza;254.97;26;2026-02-11;Dor de Cabeca,Gripe;ISOLAMENTO
+416;Maria Oliveira;441.48;1;2025-12-24;Dor de Cabeca,Dor de Cabeca;ENFERMARIA
+417;Maria Oliveira;416.97;21;2026-04-02;Febre,Infeccao;ENFERMARIA
+418;Juliana Lima;368.80;15;2026-08-25;Gripe,Febre;NEONATAL
+419;Pedro Santos;379.32;8;2025-12-10;Febre,Febre;ISOLAMENTO
+420;Carlos Souza;365.61;29;2026-03-03;Dor de Cabeca,Gripe;ISOLAMENTO
+421;Juliana Lima;387.11;9;2026-09-10;Nausea,Tosse;NEONATAL
+422;Juliana Lima;228.86;26;2026-02-12;Infeccao,Tosse;NEONATAL
+423;Joao Silva;350.55;25;2026-06-17;Febre,Nausea;ISOLAMENTO
+424;Ana Costa;219.92;6;2026-03-22;Nausea,Gripe;ENFERMARIA
+425;Ana Costa;225.11;1;2026-08-18;Dor de Cabeca,Nausea;ISOLAMENTO
+426;Juliana Lima;182.78;24;2026-07-23;Dor de Cabeca,Tosse;UTI
+427;Lucas Almeida;428.56;29;2026-10-28;Dor de Cabeca,Infeccao;UTI
+428;Pedro Santos;192.54;11;2026-08-12;Dor de Cabeca,Nausea;NEONATAL
+429;Juliana Lima;425.62;14;2026-09-17;Tosse,Nausea;ISOLAMENTO
+430;Carlos Souza;152.82;4;2026-06-14;Gripe,Tosse;ISOLAMENTO
+431;Lucas Almeida;286.34;15;2026-02-02;Nausea,Dor de Cabeca;UTI
+432;Joao Silva;335.19;12;2026-10-14;Infeccao,Dor de Cabeca;ENFERMARIA
+433;Joao Silva;198.76;6;2026-07-21;Infeccao,Dor de Cabeca;ISOLAMENTO
+434;Joao Silva;429.16;7;2026-04-17;Infeccao,Infeccao;ENFERMARIA
+435;Pedro Santos;191.98;27;2025-11-28;Dor de Cabeca,Infeccao;UTI
+436;Carlos Souza;445.94;17;2025-11-20;Gripe,Nausea;ISOLAMENTO
+437;Maria Oliveira;300.37;9;2026-08-18;Infeccao,Nausea;UTI
+438;Lucas Almeida;294.55;12;2026-03-11;Tosse,Gripe;NEONATAL
+439;Joao Silva;274.71;29;2026-04-04;Nausea,Gripe;NEONATAL
+440;Carlos Souza;323.35;17;2025-12-11;Nausea,Gripe;ENFERMARIA
+441;Maria Oliveira;421.32;2;2026-03-31;Infeccao,Febre;ENFERMARIA
+442;Maria Oliveira;395.57;15;2026-08-24;Dor de Cabeca,Febre;ENFERMARIA
+443;Pedro Santos;424.85;6;2026-08-22;Nausea,Tosse;NEONATAL
+444;Carlos Souza;242.16;8;2026-07-13;Febre,Gripe;ENFERMARIA
+445;Joao Silva;285.69;21;2025-12-27;Gripe,Gripe;NEONATAL
+446;Juliana Lima;310.22;1;2026-04-26;Nausea,Dor de Cabeca;NEONATAL
+447;Ana Costa;377.83;28;2026-01-14;Febre,Gripe;UTI
+448;Maria Oliveira;300.49;24;2026-09-05;Gripe,Infeccao;UTI
+449;Ana Costa;408.03;24;2026-03-03;Nausea,Febre;NEONATAL
+450;Pedro Santos;162.16;15;2026-11-01;Infeccao,Dor de Cabeca;UTI
+451;Juliana Lima;432.15;23;2026-05-29;Tosse,Gripe;ENFERMARIA
+452;Juliana Lima;288.46;22;2025-11-25;Infeccao,Infeccao;NEONATAL
+453;Maria Oliveira;259.54;3;2026-10-14;Gripe,Nausea;ISOLAMENTO
+454;Pedro Santos;431.29;5;2026-10-20;Infeccao,Infeccao;ISOLAMENTO
+455;Carlos Souza;251.31;18;2026-10-06;Dor de Cabeca,Infeccao;UTI
+456;Juliana Lima;228.33;26;2026-02-01;Tosse,Dor de Cabeca;ENFERMARIA
+457;Lucas Almeida;293.31;3;2026-07-31;Febre,Gripe;ENFERMARIA
+458;Carlos Souza;410.91;13;2026-04-28;Tosse,Infeccao;UTI
+459;Maria Oliveira;399.77;15;2026-09-28;Febre,Gripe;ENFERMARIA
+460;Juliana Lima;236.11;4;2026-09-07;Gripe,Infeccao;ISOLAMENTO
+461;Carlos Souza;178.43;14;2025-12-17;Dor de Cabeca,Nausea;ENFERMARIA
+462;Carlos Souza;261.30;20;2026-06-30;Dor de Cabeca,Tosse;ENFERMARIA
+463;Maria Oliveira;162.87;20;2026-02-23;Febre,Tosse;ISOLAMENTO
+464;Pedro Santos;154.67;3;2026-07-12;Gripe,Nausea;ISOLAMENTO
+465;Lucas Almeida;293.20;10;2026-07-22;Dor de Cabeca,Infeccao;UTI
+466;Lucas Almeida;209.86;11;2026-02-27;Gripe,Infeccao;NEONATAL
+467;Juliana Lima;200.68;25;2026-02-05;Tosse,Febre;ISOLAMENTO
+468;Pedro Santos;308.34;9;2026-07-26;Gripe,Nausea;ENFERMARIA
+469;Maria Oliveira;327.27;26;2026-01-23;Gripe,Nausea;NEONATAL
+470;Maria Oliveira;347.64;23;2026-02-16;Infeccao,Nausea;ENFERMARIA
+471;Maria Oliveira;285.96;17;2026-07-24;Tosse,Gripe;NEONATAL
+472;Lucas Almeida;228.95;6;2026-10-09;Nausea,Nausea;NEONATAL
+473;Maria Oliveira;242.75;2;2026-02-21;Infeccao,Febre;NEONATAL
+474;Juliana Lima;272.43;9;2026-02-08;Febre,Febre;ISOLAMENTO
+475;Carlos Souza;376.01;8;2026-06-03;Tosse,Tosse;NEONATAL
+476;Juliana Lima;303.43;6;2026-08-19;Febre,Tosse;ISOLAMENTO
+477;Joao Silva;444.33;28;2025-12-01;Tosse,Infeccao;ISOLAMENTO
+478;Joao Silva;228.31;14;2025-12-29;Gripe,Infeccao;NEONATAL
+479;Carlos Souza;368.48;18;2026-08-05;Dor de Cabeca,Infeccao;ISOLAMENTO
+480;Maria Oliveira;192.80;2;2026-05-23;Nausea,Febre;UTI
+481;Ana Costa;408.41;14;2026-07-30;Nausea,Infeccao;NEONATAL
+482;Juliana Lima;291.67;13;2026-04-19;Nausea,Tosse;NEONATAL
+483;Juliana Lima;191.27;6;2026-07-25;Infeccao,Febre;ISOLAMENTO
+484;Maria Oliveira;172.73;20;2026-06-18;Nausea,Tosse;UTI
+485;Pedro Santos;421.12;15;2026-02-13;Tosse,Dor de Cabeca;UTI
+486;Pedro Santos;153.74;8;2026-06-23;Infeccao,Febre;NEONATAL
+487;Lucas Almeida;376.33;12;2026-10-15;Dor de Cabeca,Febre;ISOLAMENTO
+488;Joao Silva;445.52;22;2025-12-20;Febre,Gripe;ISOLAMENTO
+489;Maria Oliveira;275.45;6;2026-01-30;Infeccao,Dor de Cabeca;ENFERMARIA
+490;Ana Costa;249.56;11;2026-08-21;Gripe,Dor de Cabeca;NEONATAL
+491;Lucas Almeida;267.47;14;2026-04-14;Febre,Nausea;ISOLAMENTO
+492;Carlos Souza;373.63;9;2026-06-27;Infeccao,Dor de Cabeca;ENFERMARIA
+493;Pedro Santos;177.27;3;2026-10-28;Febre,Febre;ISOLAMENTO
+494;Carlos Souza;183.53;3;2025-12-27;Nausea,Tosse;ENFERMARIA
+495;Lucas Almeida;312.16;3;2026-03-10;Febre,Infeccao;NEONATAL
+496;Joao Silva;184.62;3;2026-04-15;Dor de Cabeca,Dor de Cabeca;NEONATAL
+497;Maria Oliveira;410.37;30;2026-02-18;Infeccao,Gripe;ISOLAMENTO
+498;Joao Silva;301.28;2;2026-08-04;Tosse,Dor de Cabeca;ISOLAMENTO
+499;Maria Oliveira;187.30;17;2026-04-27;Gripe,Infeccao;NEONATAL
+500;Ana Costa;197.66;18;2026-10-02;Infeccao,Infeccao;ENFERMARIA
+501;Ana Costa;210.47;29;2026-03-02;Tosse,Tosse;ISOLAMENTO
+502;Joao Silva;258.23;23;2026-08-11;Infeccao,Gripe;ISOLAMENTO
+503;Pedro Santos;408.97;14;2026-06-04;Dor de Cabeca,Febre;UTI
+504;Carlos Souza;421.40;29;2026-02-08;Febre,Gripe;ISOLAMENTO
+505;Juliana Lima;198.26;12;2025-12-24;Dor de Cabeca,Dor de Cabeca;ENFERMARIA
+506;Pedro Santos;434.47;20;2025-12-24;Tosse,Nausea;ISOLAMENTO
+507;Pedro Santos;376.23;27;2026-07-27;Infeccao,Nausea;ENFERMARIA
+508;Carlos Souza;373.48;2;2026-01-26;Nausea,Nausea;UTI
+509;Maria Oliveira;421.34;13;2026-04-09;Nausea,Febre;ENFERMARIA
+510;Ana Costa;346.16;5;2026-03-23;Infeccao,Tosse;ENFERMARIA
+511;Carlos Souza;198.77;20;2025-12-24;Nausea,Febre;ISOLAMENTO
+512;Carlos Souza;171.39;23;2026-01-14;Infeccao,Nausea;NEONATAL
+513;Joao Silva;155.25;25;2026-04-02;Febre,Nausea;ENFERMARIA
+514;Maria Oliveira;203.52;29;2026-10-07;Gripe,Tosse;ENFERMARIA
+515;Ana Costa;158.71;9;2025-11-23;Dor de Cabeca,Febre;UTI
+516;Maria Oliveira;344.91;1;2025-11-26;Tosse,Febre;NEONATAL
+517;Lucas Almeida;213.37;27;2026-08-19;Tosse,Dor de Cabeca;NEONATAL
+518;Pedro Santos;365.12;22;2026-07-03;Infeccao,Febre;ISOLAMENTO
+519;Ana Costa;356.24;21;2026-04-25;Febre,Febre;NEONATAL
+520;Lucas Almeida;219.95;20;2026-01-05;Tosse,Tosse;ENFERMARIA
+521;Ana Costa;415.89;9;2025-12-28;Gripe,Nausea;UTI
+522;Juliana Lima;338.85;12;2026-08-17;Gripe,Tosse;ENFERMARIA
+523;Joao Silva;389.32;2;2025-12-23;Febre,Tosse;UTI
+524;Maria Oliveira;423.97;30;2026-07-18;Dor de Cabeca,Tosse;ISOLAMENTO
+525;Pedro Santos;167.76;27;2026-04-23;Dor de Cabeca,Gripe;UTI
+526;Maria Oliveira;179.22;29;2026-09-11;Nausea,Dor de Cabeca;ISOLAMENTO
+527;Carlos Souza;417.37;12;2026-04-04;Febre,Infeccao;UTI
+528;Joao Silva;362.76;27;2026-07-09;Febre,Gripe;UTI
+529;Joao Silva;195.56;25;2025-12-28;Tosse,Nausea;UTI
+530;Carlos Souza;231.21;9;2026-08-20;Infeccao,Febre;UTI
+531;Juliana Lima;158.89;10;2025-12-26;Febre,Tosse;ENFERMARIA
+532;Maria Oliveira;418.88;12;2026-06-08;Infeccao,Infeccao;NEONATAL
+533;Maria Oliveira;193.40;16;2026-04-09;Nausea,Dor de Cabeca;NEONATAL
+534;Maria Oliveira;270.62;15;2026-09-23;Tosse,Dor de Cabeca;ENFERMARIA
+535;Maria Oliveira;173.13;30;2026-07-19;Febre,Tosse;UTI
+536;Joao Silva;321.37;11;2025-12-22;Febre,Nausea;UTI
+537;Pedro Santos;327.85;14;2026-06-22;Tosse,Gripe;ISOLAMENTO
+538;Joao Silva;290.89;4;2026-04-08;Nausea,Infeccao;ISOLAMENTO
+539;Joao Silva;175.69;10;2026-08-14;Nausea,Febre;ISOLAMENTO
+540;Juliana Lima;437.12;18;2026-03-29;Febre,Febre;ENFERMARIA
+541;Carlos Souza;151.72;23;2026-07-16;Nausea,Gripe;UTI
+542;Ana Costa;386.36;24;2026-02-10;Nausea,Infeccao;ISOLAMENTO
+543;Joao Silva;238.12;16;2026-04-30;Dor de Cabeca,Gripe;ENFERMARIA
+544;Maria Oliveira;433.68;6;2026-01-14;Gripe,Infeccao;NEONATAL
+545;Maria Oliveira;176.99;22;2026-02-26;Nausea,Infeccao;ISOLAMENTO
+546;Ana Costa;182.07;15;2026-09-17;Dor de Cabeca,Infeccao;UTI
+547;Joao Silva;221.55;24;2025-12-27;Febre,Gripe;ISOLAMENTO
+548;Carlos Souza;263.45;25;2026-10-17;Infeccao,Gripe;UTI
+549;Joao Silva;256.60;19;2026-07-10;Nausea,Febre;UTI
+550;Pedro Santos;360.06;13;2026-07-18;Dor de Cabeca,Gripe;ISOLAMENTO
+551;Ana Costa;294.21;19;2026-07-13;Nausea,Dor de Cabeca;ISOLAMENTO
+552;Joao Silva;319.54;20;2026-06-11;Febre,Febre;ISOLAMENTO
+553;Maria Oliveira;325.27;4;2026-10-27;Febre,Febre;UTI
+554;Pedro Santos;432.07;14;2026-05-01;Dor de Cabeca,Infeccao;UTI
+555;Joao Silva;283.03;28;2026-02-25;Dor de Cabeca,Tosse;ENFERMARIA
+556;Pedro Santos;312.92;27;2025-12-01;Nausea,Febre;ISOLAMENTO
+557;Ana Costa;349.29;13;2026-08-21;Febre,Dor de Cabeca;ISOLAMENTO
+558;Ana Costa;408.79;19;2026-11-03;Nausea,Tosse;UTI
+559;Pedro Santos;409.18;25;2026-07-10;Gripe,Infeccao;UTI
+560;Lucas Almeida;321.22;20;2026-07-25;Nausea,Infeccao;ISOLAMENTO
+561;Ana Costa;235.36;7;2026-10-26;Tosse,Gripe;ISOLAMENTO
+562;Juliana Lima;215.60;20;2026-09-03;Dor de Cabeca,Febre;ISOLAMENTO
+563;Maria Oliveira;257.57;18;2026-07-24;Nausea,Dor de Cabeca;UTI
+564;Joao Silva;258.90;23;2026-05-28;Nausea,Febre;ISOLAMENTO
+565;Ana Costa;448.29;16;2025-12-02;Dor de Cabeca,Tosse;NEONATAL
+566;Carlos Souza;304.75;25;2026-01-17;Nausea,Infeccao;UTI
+567;Joao Silva;330.41;25;2026-03-28;Nausea,Febre;ENFERMARIA
+568;Carlos Souza;318.97;14;2026-04-10;Infeccao,Gripe;NEONATAL
+569;Ana Costa;187.81;4;2026-05-30;Tosse,Infeccao;NEONATAL
+570;Maria Oliveira;314.08;17;2026-11-03;Gripe,Tosse;ISOLAMENTO
+571;Lucas Almeida;334.65;20;2026-10-18;Dor de Cabeca,Nausea;ISOLAMENTO
+572;Joao Silva;436.14;20;2025-12-19;Dor de Cabeca,Febre;NEONATAL
+573;Carlos Souza;174.27;8;2025-12-27;Infeccao,Febre;NEONATAL
+574;Juliana Lima;422.14;2;2026-04-08;Dor de Cabeca,Tosse;ISOLAMENTO
+575;Lucas Almeida;353.51;12;2026-03-07;Infeccao,Febre;UTI
+576;Carlos Souza;421.51;5;2025-12-15;Gripe,Gripe;ENFERMARIA
+577;Juliana Lima;293.39;14;2026-10-18;Febre,Nausea;NEONATAL
+578;Juliana Lima;449.90;5;2026-05-14;Dor de Cabeca,Nausea;ISOLAMENTO
+579;Maria Oliveira;251.92;20;2025-12-27;Infeccao,Nausea;ISOLAMENTO
+580;Juliana Lima;318.73;28;2026-10-09;Dor de Cabeca,Infeccao;ISOLAMENTO
+581;Joao Silva;349.97;21;2026-08-14;Febre,Tosse;NEONATAL
+582;Ana Costa;158.86;22;2026-10-16;Gripe,Dor de Cabeca;ENFERMARIA
+583;Ana Costa;165.98;26;2026-03-12;Gripe,Dor de Cabeca;UTI
+584;Carlos Souza;231.61;23;2026-10-13;Dor de Cabeca,Febre;UTI
+585;Juliana Lima;180.53;7;2026-06-05;Infeccao,Dor de Cabeca;UTI
+586;Lucas Almeida;295.69;7;2026-01-08;Tosse,Tosse;UTI
+587;Joao Silva;426.38;22;2026-04-05;Gripe,Febre;UTI
+588;Carlos Souza;373.23;4;2026-10-29;Infeccao,Gripe;NEONATAL
+589;Pedro Santos;175.08;24;2026-06-13;Tosse,Gripe;NEONATAL
+590;Ana Costa;333.33;6;2026-08-02;Gripe,Dor de Cabeca;ENFERMARIA
+591;Juliana Lima;165.84;10;2026-01-20;Tosse,Tosse;UTI
+592;Lucas Almeida;286.56;18;2026-09-05;Dor de Cabeca,Dor de Cabeca;NEONATAL
+593;Joao Silva;257.68;2;2026-06-05;Infeccao,Nausea;ISOLAMENTO
+594;Pedro Santos;258.61;27;2026-04-07;Dor de Cabeca,Tosse;UTI
+595;Pedro Santos;160.51;24;2026-06-06;Nausea,Dor de Cabeca;ENFERMARIA
+596;Juliana Lima;386.57;23;2025-12-08;Nausea,Febre;UTI
+597;Pedro Santos;176.18;3;2026-05-02;Dor de Cabeca,Gripe;ENFERMARIA
+598;Maria Oliveira;256.27;11;2026-04-28;Gripe,Nausea;ENFERMARIA
+599;Carlos Souza;155.32;9;2025-12-15;Tosse,Tosse;UTI
+600;Joao Silva;273.76;5;2026-10-13;Infeccao,Tosse;ISOLAMENTO
+601;Carlos Souza;350.76;14;2026-07-02;Febre,Nausea;UTI
+602;Carlos Souza;239.61;9;2026-01-01;Nausea,Gripe;NEONATAL
+603;Ana Costa;423.42;29;2026-09-21;Febre,Infeccao;ISOLAMENTO
+604;Carlos Souza;269.21;8;2026-07-02;Dor de Cabeca,Dor de Cabeca;UTI
+605;Joao Silva;431.61;14;2025-11-21;Nausea,Dor de Cabeca;UTI
+606;Pedro Santos;277.45;11;2026-09-22;Tosse,Infeccao;ISOLAMENTO
+607;Joao Silva;209.47;8;2026-07-15;Tosse,Febre;UTI
+608;Lucas Almeida;321.17;9;2026-01-05;Nausea,Tosse;ISOLAMENTO
+609;Joao Silva;215.51;29;2026-03-31;Nausea,Nausea;NEONATAL
+610;Ana Costa;267.73;16;2025-12-08;Nausea,Febre;NEONATAL
+611;Pedro Santos;407.04;7;2025-12-25;Gripe,Febre;ISOLAMENTO
+612;Joao Silva;333.05;30;2026-11-06;Gripe,Tosse;ISOLAMENTO
+613;Joao Silva;371.40;7;2026-04-30;Infeccao,Febre;ISOLAMENTO
+614;Ana Costa;207.49;11;2026-04-08;Tosse,Nausea;UTI
+615;Joao Silva;419.86;16;2026-02-04;Tosse,Dor de Cabeca;ISOLAMENTO
+616;Pedro Santos;262.93;13;2026-03-02;Infeccao,Nausea;ENFERMARIA
+617;Pedro Santos;424.95;14;2026-01-02;Dor de Cabeca,Dor de Cabeca;ENFERMARIA
+618;Juliana Lima;309.38;15;2026-03-14;Tosse,Infeccao;ENFERMARIA
+619;Pedro Santos;157.22;27;2026-01-07;Gripe,Tosse;UTI
+620;Ana Costa;444.54;19;2026-07-01;Dor de Cabeca,Gripe;UTI
+621;Lucas Almeida;152.14;28;2026-04-11;Nausea,Tosse;NEONATAL
+622;Ana Costa;214.63;24;2026-07-27;Gripe,Tosse;ENFERMARIA
+623;Lucas Almeida;413.18;23;2026-09-26;Gripe,Dor de Cabeca;UTI
+624;Carlos Souza;179.79;14;2026-11-02;Gripe,Nausea;UTI
+625;Lucas Almeida;331.75;30;2025-12-04;Gripe,Dor de Cabeca;ISOLAMENTO
+626;Pedro Santos;152.56;10;2026-07-06;Febre,Nausea;ENFERMARIA
+627;Carlos Souza;279.92;4;2026-07-23;Nausea,Infeccao;ISOLAMENTO
+628;Pedro Santos;152.66;18;2025-12-07;Dor de Cabeca,Febre;NEONATAL
+629;Lucas Almeida;306.91;8;2026-06-03;Febre,Febre;NEONATAL
+630;Carlos Souza;296.50;15;2026-10-18;Nausea,Gripe;ENFERMARIA
+631;Carlos Souza;444.94;24;2026-02-23;Tosse,Infeccao;ENFERMARIA
+632;Lucas Almeida;414.72;28;2026-10-13;Nausea,Nausea;NEONATAL
+633;Ana Costa;305.61;29;2026-05-17;Nausea,Dor de Cabeca;ENFERMARIA
+634;Carlos Souza;266.23;24;2026-05-25;Dor de Cabeca,Dor de Cabeca;NEONATAL
+635;Joao Silva;222.36;28;2026-09-14;Infeccao,Febre;UTI
+636;Maria Oliveira;391.98;8;2026-07-10;Gripe,Tosse;UTI
+637;Pedro Santos;270.16;21;2026-09-02;Nausea,Dor de Cabeca;ENFERMARIA
+638;Ana Costa;426.91;24;2026-01-15;Febre,Gripe;UTI
+639;Carlos Souza;168.10;28;2026-08-23;Nausea,Dor de Cabeca;ISOLAMENTO
+640;Lucas Almeida;163.38;12;2026-02-05;Febre,Gripe;UTI
+641;Pedro Santos;445.71;10;2026-04-10;Infeccao,Nausea;ENFERMARIA
+642;Ana Costa;334.50;24;2026-07-12;Nausea,Tosse;UTI
+643;Joao Silva;229.14;26;2025-12-05;Febre,Gripe;UTI
+644;Lucas Almeida;160.65;7;2026-10-10;Febre,Febre;ENFERMARIA
+645;Juliana Lima;277.65;16;2026-05-19;Febre,Infeccao;NEONATAL
+646;Joao Silva;177.63;20;2026-04-21;Dor de Cabeca,Infeccao;ISOLAMENTO
+647;Lucas Almeida;176.70;1;2026-08-05;Nausea,Tosse;ISOLAMENTO
+648;Juliana Lima;339.70;27;2026-03-09;Tosse,Nausea;NEONATAL
+649;Juliana Lima;268.10;17;2026-04-02;Tosse,Infeccao;ENFERMARIA
+650;Maria Oliveira;265.97;29;2026-08-06;Febre,Tosse;UTI
+651;Ana Costa;373.43;29;2026-04-11;Tosse,Infeccao;NEONATAL
+652;Carlos Souza;173.47;24;2026-11-09;Nausea,Nausea;ISOLAMENTO
+653;Maria Oliveira;341.31;26;2026-07-18;Nausea,Gripe;ENFERMARIA
+654;Maria Oliveira;215.14;28;2026-09-25;Gripe,Dor de Cabeca;ISOLAMENTO
+655;Ana Costa;324.56;6;2025-12-19;Tosse,Febre;ISOLAMENTO
+656;Lucas Almeida;216.33;10;2025-12-14;Infeccao,Febre;NEONATAL
+657;Ana Costa;268.07;14;2026-07-18;Febre,Infeccao;NEONATAL
+658;Ana Costa;377.98;27;2026-09-13;Nausea,Nausea;UTI
+659;Carlos Souza;263.10;21;2025-12-26;Febre,Infeccao;NEONATAL
+660;Lucas Almeida;289.88;28;2026-06-01;Gripe,Nausea;UTI
+661;Maria Oliveira;199.14;27;2026-02-23;Tosse,Febre;ISOLAMENTO
+662;Ana Costa;272.44;12;2025-11-22;Tosse,Gripe;UTI
+663;Ana Costa;218.91;4;2025-11-15;Nausea,Dor de Cabeca;NEONATAL
+664;Joao Silva;440.27;27;2026-02-12;Nausea,Dor de Cabeca;ISOLAMENTO
+665;Maria Oliveira;257.58;17;2026-04-09;Dor de Cabeca,Tosse;NEONATAL
+666;Pedro Santos;155.88;7;2026-08-19;Infeccao,Dor de Cabeca;NEONATAL
+667;Lucas Almeida;321.89;11;2026-08-03;Gripe,Febre;UTI
+668;Lucas Almeida;317.01;28;2026-04-17;Gripe,Nausea;ISOLAMENTO
+669;Carlos Souza;240.17;12;2026-03-28;Infeccao,Nausea;NEONATAL
+670;Lucas Almeida;195.82;24;2026-02-13;Dor de Cabeca,Nausea;ENFERMARIA
+671;Joao Silva;389.03;30;2026-05-18;Dor de Cabeca,Tosse;UTI
+672;Carlos Souza;423.29;19;2026-01-31;Gripe,Febre;ISOLAMENTO
+673;Carlos Souza;177.68;12;2026-03-19;Nausea,Nausea;ENFERMARIA
+674;Lucas Almeida;387.31;30;2026-03-26;Infeccao,Dor de Cabeca;ISOLAMENTO
+675;Ana Costa;445.54;27;2026-06-03;Dor de Cabeca,Tosse;UTI
+676;Ana Costa;287.71;22;2026-11-02;Tosse,Gripe;UTI
+677;Maria Oliveira;404.29;12;2026-01-29;Gripe,Gripe;ENFERMARIA
+678;Joao Silva;166.62;5;2026-06-10;Tosse,Tosse;ENFERMARIA
+679;Ana Costa;229.91;15;2026-06-18;Febre,Dor de Cabeca;NEONATAL
+680;Carlos Souza;307.55;1;2026-05-07;Febre,Febre;UTI
+681;Maria Oliveira;385.85;30;2026-03-17;Febre,Febre;ISOLAMENTO
+682;Maria Oliveira;271.51;4;2026-03-05;Febre,Febre;ENFERMARIA
+683;Juliana Lima;232.97;27;2026-07-09;Infeccao,Tosse;ENFERMARIA
+684;Joao Silva;213.54;23;2026-09-02;Gripe,Nausea;ENFERMARIA
+685;Pedro Santos;357.21;3;2026-02-10;Dor de Cabeca,Febre;UTI
+686;Pedro Santos;398.01;17;2025-12-16;Febre,Dor de Cabeca;NEONATAL
+687;Lucas Almeida;220.92;11;2026-01-14;Dor de Cabeca,Infeccao;UTI
+688;Juliana Lima;306.06;1;2026-03-03;Febre,Gripe;NEONATAL
+689;Lucas Almeida;218.49;1;2026-08-28;Tosse,Tosse;ISOLAMENTO
+690;Carlos Souza;303.56;4;2026-02-16;Gripe,Dor de Cabeca;ISOLAMENTO
+691;Joao Silva;192.39;17;2026-05-06;Nausea,Nausea;ISOLAMENTO
+692;Juliana Lima;212.86;28;2026-07-28;Tosse,Infeccao;UTI
+693;Maria Oliveira;340.34;20;2026-06-22;Dor de Cabeca,Febre;UTI
+694;Joao Silva;306.80;28;2026-10-31;Infeccao,Febre;UTI
+695;Pedro Santos;319.43;7;2025-11-14;Infeccao,Nausea;ENFERMARIA
+696;Joao Silva;418.26;27;2026-02-17;Infeccao,Febre;UTI
+697;Maria Oliveira;228.23;27;2026-10-25;Dor de Cabeca,Nausea;ENFERMARIA
+698;Maria Oliveira;433.67;7;2026-10-24;Febre,Dor de Cabeca;ENFERMARIA
+699;Juliana Lima;322.51;7;2025-12-03;Febre,Gripe;ISOLAMENTO
+700;Pedro Santos;413.80;12;2026-01-14;Febre,Nausea;NEONATAL
+701;Joao Silva;295.66;6;2026-08-25;Tosse,Tosse;NEONATAL
+702;Joao Silva;160.17;23;2026-06-14;Tosse,Gripe;UTI
+703;Carlos Souza;229.49;20;2026-11-08;Nausea,Nausea;UTI
+704;Ana Costa;220.48;7;2026-07-02;Dor de Cabeca,Nausea;UTI
+705;Maria Oliveira;296.40;19;2025-12-10;Febre,Febre;UTI
+706;Pedro Santos;401.45;6;2026-05-08;Gripe,Gripe;ISOLAMENTO
+707;Lucas Almeida;268.63;19;2026-01-25;Infeccao,Febre;NEONATAL
+708;Ana Costa;332.32;30;2026-07-17;Febre,Gripe;ISOLAMENTO
+709;Joao Silva;265.68;28;2026-07-06;Gripe,Infeccao;UTI
+710;Ana Costa;397.49;23;2026-07-08;Dor de Cabeca,Tosse;UTI
+711;Lucas Almeida;345.48;24;2026-10-24;Gripe,Gripe;UTI
+712;Pedro Santos;231.56;15;2025-12-30;Dor de Cabeca,Tosse;UTI
+713;Pedro Santos;220.40;28;2026-02-03;Infeccao,Gripe;ENFERMARIA
+714;Maria Oliveira;445.21;6;2026-06-09;Nausea,Infeccao;UTI
+715;Juliana Lima;153.85;15;2026-10-29;Febre,Infeccao;UTI
+716;Carlos Souza;425.23;14;2026-03-08;Gripe,Tosse;UTI
+717;Ana Costa;268.31;23;2026-03-10;Febre,Febre;ENFERMARIA
+718;Carlos Souza;427.07;13;2025-11-29;Febre,Febre;UTI
+719;Joao Silva;370.74;20;2026-07-12;Tosse,Infeccao;UTI
+720;Juliana Lima;353.28;19;2026-07-06;Gripe,Infeccao;NEONATAL
+721;Joao Silva;376.14;15;2026-06-11;Infeccao,Febre;ISOLAMENTO
+722;Lucas Almeida;286.19;29;2026-02-13;Infeccao,Nausea;UTI
+723;Ana Costa;285.19;15;2026-06-24;Gripe,Dor de Cabeca;UTI
+724;Juliana Lima;418.19;23;2026-07-14;Dor de Cabeca,Infeccao;ENFERMARIA
+725;Joao Silva;246.77;23;2026-05-30;Nausea,Gripe;NEONATAL
+726;Joao Silva;197.93;2;2026-07-24;Tosse,Gripe;UTI
+727;Carlos Souza;411.24;3;2026-08-24;Infeccao,Gripe;UTI
+728;Maria Oliveira;185.97;10;2025-11-21;Nausea,Dor de Cabeca;ENFERMARIA
+729;Ana Costa;355.37;25;2025-12-07;Febre,Nausea;ISOLAMENTO
+730;Pedro Santos;287.92;30;2026-01-03;Tosse,Tosse;ISOLAMENTO
+731;Maria Oliveira;334.74;14;2026-06-24;Gripe,Tosse;UTI
+732;Juliana Lima;408.79;5;2025-11-15;Febre,Gripe;ENFERMARIA
+733;Ana Costa;394.49;27;2026-04-12;Tosse,Nausea;NEONATAL
+734;Pedro Santos;346.63;16;2025-11-17;Nausea,Nausea;ISOLAMENTO
+735;Ana Costa;344.24;12;2026-02-14;Dor de Cabeca,Tosse;NEONATAL
+736;Pedro Santos;318.97;18;2026-11-12;Febre,Infeccao;UTI
+737;Juliana Lima;378.16;11;2026-07-11;Nausea,Nausea;ISOLAMENTO
+738;Maria Oliveira;290.40;30;2026-01-04;Dor de Cabeca,Febre;ENFERMARIA
+739;Juliana Lima;395.83;8;2026-04-13;Dor de Cabeca,Dor de Cabeca;ENFERMARIA
+740;Maria Oliveira;244.54;25;2026-02-17;Febre,Infeccao;NEONATAL
+741;Maria Oliveira;355.00;22;2025-11-17;Tosse,Dor de Cabeca;ENFERMARIA
+742;Ana Costa;318.97;14;2026-01-22;Gripe,Tosse;ISOLAMENTO
+743;Carlos Souza;161.93;10;2026-11-12;Nausea,Tosse;ENFERMARIA
+744;Maria Oliveira;396.22;18;2025-11-13;Nausea,Dor de Cabeca;ENFERMARIA
+745;Joao Silva;380.25;5;2026-10-15;Gripe,Tosse;UTI
+746;Ana Costa;319.45;9;2026-06-29;Infeccao,Gripe;NEONATAL
+747;Juliana Lima;314.15;30;2026-01-29;Infeccao,Infeccao;UTI
+748;Juliana Lima;175.92;9;2026-11-11;Nausea,Dor de Cabeca;UTI
+749;Pedro Santos;296.85;26;2026-04-04;Dor de Cabeca,Febre;ENFERMARIA
+750;Ana Costa;166.83;27;2026-04-03;Tosse,Febre;UTI
+751;Juliana Lima;390.07;29;2026-09-30;Gripe,Tosse;NEONATAL
+752;Pedro Santos;256.72;23;2026-08-12;Tosse,Infeccao;ISOLAMENTO
+753;Lucas Almeida;375.48;29;2026-01-03;Dor de Cabeca,Tosse;ENFERMARIA
+754;Pedro Santos;170.94;20;2026-01-04;Nausea,Febre;ISOLAMENTO
+755;Joao Silva;293.97;17;2026-09-05;Tosse,Gripe;ISOLAMENTO
+756;Joao Silva;384.36;1;2026-01-29;Febre,Infeccao;UTI
+757;Carlos Souza;263.53;28;2025-12-21;Gripe,Tosse;UTI
+758;Ana Costa;319.91;8;2026-02-15;Gripe,Gripe;UTI
+759;Joao Silva;181.66;12;2026-07-17;Dor de Cabeca,Febre;NEONATAL
+760;Juliana Lima;250.13;23;2026-06-29;Infeccao,Tosse;ENFERMARIA
+761;Maria Oliveira;293.18;19;2025-12-08;Infeccao,Gripe;UTI
+762;Lucas Almeida;270.11;8;2026-02-03;Febre,Infeccao;ENFERMARIA
+763;Ana Costa;379.20;3;2026-03-12;Tosse,Gripe;UTI
+764;Lucas Almeida;285.33;25;2026-03-10;Infeccao,Dor de Cabeca;ISOLAMENTO
+765;Carlos Souza;198.32;2;2026-08-29;Tosse,Febre;ENFERMARIA
+766;Ana Costa;232.55;8;2026-06-16;Gripe,Dor de Cabeca;NEONATAL
+767;Maria Oliveira;285.61;14;2026-03-05;Infeccao,Dor de Cabeca;UTI
+768;Joao Silva;427.22;23;2026-05-09;Infeccao,Nausea;ENFERMARIA
+769;Lucas Almeida;190.57;24;2025-12-12;Infeccao,Infeccao;NEONATAL
+770;Ana Costa;205.82;12;2026-01-31;Infeccao,Nausea;NEONATAL
+771;Joao Silva;309.62;15;2026-04-29;Tosse,Dor de Cabeca;UTI
+772;Pedro Santos;306.34;17;2026-07-17;Tosse,Dor de Cabeca;UTI
+773;Ana Costa;344.23;30;2026-04-30;Nausea,Gripe;NEONATAL
+774;Juliana Lima;405.45;21;2026-09-27;Tosse,Nausea;UTI
+775;Joao Silva;390.35;21;2026-01-10;Infeccao,Tosse;UTI
+776;Juliana Lima;405.47;8;2026-07-11;Tosse,Dor de Cabeca;UTI
+777;Lucas Almeida;240.19;30;2026-07-08;Nausea,Infeccao;NEONATAL
+778;Ana Costa;339.81;7;2026-04-23;Febre,Infeccao;ISOLAMENTO
+779;Pedro Santos;352.00;2;2026-04-11;Gripe,Dor de Cabeca;NEONATAL
+780;Maria Oliveira;439.95;28;2026-08-25;Dor de Cabeca,Febre;NEONATAL
+781;Ana Costa;218.90;22;2026-07-15;Febre,Infeccao;ISOLAMENTO
+782;Ana Costa;282.48;16;2025-11-24;Tosse,Febre;NEONATAL
+783;Pedro Santos;442.51;8;2026-11-02;Dor de Cabeca,Dor de Cabeca;NEONATAL
+784;Lucas Almeida;209.56;28;2026-10-30;Nausea,Tosse;UTI
+785;Maria Oliveira;192.26;20;2026-08-21;Infeccao,Febre;UTI
+786;Pedro Santos;191.05;11;2026-11-07;Gripe,Dor de Cabeca;UTI
+787;Juliana Lima;406.24;28;2026-02-21;Dor de Cabeca,Dor de Cabeca;ENFERMARIA
+788;Joao Silva;371.82;2;2026-08-16;Nausea,Febre;NEONATAL
+789;Ana Costa;364.50;29;2026-05-20;Dor de Cabeca,Gripe;ENFERMARIA
+790;Maria Oliveira;422.48;14;2025-12-27;Febre,Febre;NEONATAL
+791;Pedro Santos;240.57;12;2026-01-14;Tosse,Infeccao;ENFERMARIA
+792;Pedro Santos;286.88;28;2026-07-16;Febre,Febre;NEONATAL
+793;Juliana Lima;412.10;17;2026-09-29;Febre,Tosse;ISOLAMENTO
+794;Joao Silva;194.91;17;2026-02-16;Tosse,Nausea;UTI
+795;Juliana Lima;386.54;8;2026-01-28;Nausea,Gripe;UTI
+796;Juliana Lima;283.74;13;2025-12-15;Febre,Nausea;ENFERMARIA
+797;Joao Silva;272.61;10;2025-12-16;Dor de Cabeca,Tosse;ENFERMARIA
+798;Joao Silva;245.97;3;2026-02-14;Dor de Cabeca,Tosse;NEONATAL
+799;Carlos Souza;303.49;14;2026-10-08;Dor de Cabeca,Febre;NEONATAL
+800;Maria Oliveira;398.10;23;2025-12-17;Tosse,Dor de Cabeca;UTI
+801;Ana Costa;292.55;3;2026-03-23;Infeccao,Febre;UTI
+802;Juliana Lima;237.54;14;2026-01-19;Infeccao,Infeccao;NEONATAL
+803;Ana Costa;377.57;16;2026-02-10;Febre,Febre;UTI
+804;Ana Costa;231.63;12;2026-08-13;Febre,Infeccao;ENFERMARIA
+805;Maria Oliveira;284.17;4;2025-12-12;Febre,Nausea;ENFERMARIA
+806;Ana Costa;357.01;2;2026-10-01;Tosse,Infeccao;ENFERMARIA
+807;Maria Oliveira;414.40;7;2026-10-21;Tosse,Dor de Cabeca;ENFERMARIA
+808;Carlos Souza;382.68;6;2026-10-08;Nausea,Gripe;NEONATAL
+809;Joao Silva;341.35;21;2025-12-31;Nausea,Infeccao;NEONATAL
+810;Joao Silva;365.07;14;2026-08-11;Nausea,Dor de Cabeca;UTI
+811;Juliana Lima;265.58;8;2026-09-10;Gripe,Febre;ENFERMARIA
+812;Ana Costa;198.60;1;2026-01-10;Infeccao,Nausea;ISOLAMENTO
+813;Joao Silva;264.33;24;2026-04-17;Febre,Tosse;UTI
+814;Maria Oliveira;439.91;6;2025-11-28;Dor de Cabeca,Febre;ISOLAMENTO
+815;Carlos Souza;339.24;17;2026-04-16;Tosse,Infeccao;ENFERMARIA
+816;Lucas Almeida;399.38;22;2026-08-06;Nausea,Nausea;NEONATAL
+817;Joao Silva;443.55;8;2026-07-18;Gripe,Gripe;ISOLAMENTO
+818;Lucas Almeida;367.95;2;2026-11-10;Infeccao,Nausea;ISOLAMENTO
+819;Lucas Almeida;344.58;2;2026-02-13;Gripe,Febre;UTI
+820;Ana Costa;222.95;24;2026-03-20;Febre,Nausea;NEONATAL
+821;Ana Costa;152.38;27;2026-07-21;Febre,Tosse;ENFERMARIA
+822;Ana Costa;231.05;21;2026-03-05;Dor de Cabeca,Nausea;ISOLAMENTO
+823;Lucas Almeida;320.38;7;2026-01-29;Infeccao,Gripe;NEONATAL
+824;Pedro Santos;341.81;3;2026-01-14;Nausea,Tosse;ISOLAMENTO
+825;Pedro Santos;298.91;1;2026-03-14;Gripe,Febre;ISOLAMENTO
+826;Pedro Santos;340.18;23;2026-10-06;Infeccao,Infeccao;ENFERMARIA
+827;Lucas Almeida;197.49;2;2026-10-30;Tosse,Tosse;ISOLAMENTO
+828;Ana Costa;301.23;25;2026-02-07;Tosse,Nausea;ISOLAMENTO
+829;Joao Silva;286.66;11;2026-03-07;Tosse,Febre;ENFERMARIA
+830;Maria Oliveira;265.62;26;2026-04-30;Febre,Nausea;ISOLAMENTO
+831;Joao Silva;445.31;8;2025-12-03;Febre,Febre;ENFERMARIA
+832;Maria Oliveira;228.94;12;2026-07-08;Gripe,Tosse;ENFERMARIA
+833;Joao Silva;234.31;19;2026-01-27;Nausea,Infeccao;ISOLAMENTO
+834;Lucas Almeida;413.59;6;2026-08-31;Febre,Dor de Cabeca;UTI
+835;Maria Oliveira;352.28;30;2026-09-22;Dor de Cabeca,Dor de Cabeca;ISOLAMENTO
+836;Ana Costa;366.24;16;2026-03-31;Gripe,Gripe;ENFERMARIA
+837;Lucas Almeida;304.43;14;2026-04-01;Infeccao,Gripe;UTI
+838;Joao Silva;299.43;23;2026-04-13;Infeccao,Tosse;UTI
+839;Pedro Santos;390.29;10;2026-01-20;Tosse,Dor de Cabeca;ISOLAMENTO
+840;Lucas Almeida;370.65;30;2026-01-27;Dor de Cabeca,Gripe;UTI
+841;Ana Costa;291.14;20;2025-12-26;Gripe,Tosse;UTI
+842;Joao Silva;267.17;20;2025-12-23;Febre,Infeccao;NEONATAL
+843;Lucas Almeida;413.14;22;2026-02-04;Dor de Cabeca,Dor de Cabeca;ISOLAMENTO
+844;Carlos Souza;340.05;30;2026-08-20;Febre,Gripe;ENFERMARIA
+845;Juliana Lima;216.82;5;2026-09-10;Tosse,Gripe;ISOLAMENTO
+846;Pedro Santos;205.69;4;2026-04-19;Febre,Febre;UTI
+847;Lucas Almeida;438.97;14;2026-04-06;Gripe,Febre;ENFERMARIA
+848;Ana Costa;408.24;14;2026-10-01;Gripe,Gripe;UTI
+849;Maria Oliveira;287.72;23;2026-10-01;Febre,Febre;ENFERMARIA
+850;Lucas Almeida;211.27;3;2026-06-09;Infeccao,Febre;ENFERMARIA
+851;Juliana Lima;266.63;16;2026-04-25;Gripe,Febre;ENFERMARIA
+852;Maria Oliveira;262.05;21;2026-09-14;Nausea,Nausea;NEONATAL
+853;Ana Costa;358.68;20;2026-10-02;Tosse,Febre;ENFERMARIA
+854;Ana Costa;346.74;5;2026-10-26;Nausea,Dor de Cabeca;UTI
+855;Carlos Souza;176.09;5;2025-11-28;Infeccao,Nausea;ISOLAMENTO
+856;Ana Costa;229.94;29;2026-07-01;Nausea,Infeccao;UTI
+857;Maria Oliveira;256.68;13;2026-05-17;Gripe,Infeccao;ISOLAMENTO
+858;Juliana Lima;246.95;30;2026-09-04;Dor de Cabeca,Nausea;ENFERMARIA
+859;Joao Silva;162.80;23;2026-01-03;Gripe,Gripe;NEONATAL
+860;Joao Silva;191.99;1;2026-04-23;Tosse,Dor de Cabeca;ISOLAMENTO
+861;Pedro Santos;213.52;1;2026-10-21;Infeccao,Tosse;ENFERMARIA
+862;Lucas Almeida;220.89;22;2026-02-10;Febre,Gripe;NEONATAL
+863;Ana Costa;256.08;18;2026-06-03;Gripe,Gripe;NEONATAL
+864;Joao Silva;361.49;15;2026-07-03;Infeccao,Dor de Cabeca;NEONATAL
+865;Ana Costa;357.38;20;2026-08-11;Nausea,Nausea;UTI
+866;Maria Oliveira;400.19;26;2026-04-14;Gripe,Dor de Cabeca;ENFERMARIA
+867;Lucas Almeida;271.41;21;2026-07-28;Febre,Gripe;ENFERMARIA
+868;Maria Oliveira;187.96;9;2026-11-11;Dor de Cabeca,Infeccao;ENFERMARIA
+869;Maria Oliveira;313.41;5;2026-01-24;Dor de Cabeca,Dor de Cabeca;ENFERMARIA
+870;Lucas Almeida;184.16;5;2026-05-08;Infeccao,Gripe;UTI
+871;Juliana Lima;346.77;24;2025-11-19;Infeccao,Infeccao;ENFERMARIA
+872;Joao Silva;331.62;2;2026-06-17;Infeccao,Febre;ISOLAMENTO
+873;Juliana Lima;263.31;25;2026-01-14;Dor de Cabeca,Tosse;UTI
+874;Juliana Lima;231.24;10;2026-06-10;Tosse,Tosse;ISOLAMENTO
+875;Ana Costa;312.99;17;2026-02-24;Infeccao,Febre;UTI
+876;Carlos Souza;359.45;16;2026-02-13;Gripe,Tosse;NEONATAL
+877;Pedro Santos;313.85;27;2026-01-03;Nausea,Gripe;ENFERMARIA
+878;Maria Oliveira;247.04;7;2026-07-15;Febre,Febre;UTI
+879;Lucas Almeida;447.99;9;2026-10-23;Tosse,Nausea;UTI
+880;Carlos Souza;412.59;19;2026-09-09;Gripe,Dor de Cabeca;NEONATAL
+881;Ana Costa;424.47;3;2026-05-29;Tosse,Gripe;ENFERMARIA
+882;Joao Silva;218.81;6;2026-09-07;Dor de Cabeca,Tosse;NEONATAL
+883;Carlos Souza;165.08;16;2026-10-16;Febre,Tosse;ISOLAMENTO
+884;Joao Silva;395.37;3;2026-04-06;Gripe,Infeccao;NEONATAL
+885;Carlos Souza;443.71;11;2026-08-19;Dor de Cabeca,Febre;NEONATAL
+886;Pedro Santos;446.34;5;2026-08-15;Tosse,Infeccao;ISOLAMENTO
+887;Carlos Souza;185.24;24;2026-06-13;Dor de Cabeca,Tosse;NEONATAL
+888;Maria Oliveira;435.73;16;2026-06-18;Febre,Gripe;ENFERMARIA
+889;Carlos Souza;404.81;17;2026-10-18;Nausea,Gripe;ISOLAMENTO
+890;Maria Oliveira;219.45;27;2026-07-04;Infeccao,Nausea;ENFERMARIA
+891;Juliana Lima;243.34;22;2026-05-26;Nausea,Tosse;ENFERMARIA
+892;Pedro Santos;367.11;21;2025-12-24;Gripe,Tosse;UTI
+893;Joao Silva;330.11;6;2026-06-20;Febre,Febre;NEONATAL
+894;Ana Costa;391.88;9;2026-01-07;Gripe,Febre;UTI
+895;Lucas Almeida;278.37;6;2025-12-26;Infeccao,Febre;ENFERMARIA
+896;Pedro Santos;181.94;15;2026-07-19;Febre,Febre;UTI
+897;Maria Oliveira;294.61;3;2025-12-24;Infeccao,Febre;NEONATAL
+898;Maria Oliveira;401.73;28;2026-09-16;Dor de Cabeca,Tosse;ISOLAMENTO
+899;Carlos Souza;157.68;28;2026-09-15;Tosse,Febre;ISOLAMENTO
+900;Carlos Souza;406.49;1;2026-08-23;Febre,Gripe;ENFERMARIA
+901;Carlos Souza;298.34;29;2026-10-21;Dor de Cabeca,Nausea;NEONATAL
+902;Maria Oliveira;388.32;22;2026-10-25;Febre,Gripe;UTI
+903;Joao Silva;185.18;15;2026-06-10;Febre,Nausea;NEONATAL
+904;Juliana Lima;447.25;27;2026-08-16;Gripe,Nausea;ISOLAMENTO
+905;Lucas Almeida;397.88;14;2026-09-30;Nausea,Infeccao;NEONATAL
+906;Juliana Lima;155.58;3;2025-11-19;Tosse,Febre;NEONATAL
+907;Lucas Almeida;443.49;23;2026-03-03;Nausea,Gripe;ISOLAMENTO
+908;Juliana Lima;158.85;7;2026-07-05;Nausea,Nausea;ENFERMARIA
+909;Pedro Santos;346.74;25;2026-01-11;Tosse,Gripe;ISOLAMENTO
+910;Ana Costa;231.92;23;2026-07-25;Nausea,Infeccao;NEONATAL
+911;Joao Silva;320.13;2;2026-02-11;Tosse,Dor de Cabeca;NEONATAL
+912;Ana Costa;283.35;9;2026-07-31;Infeccao,Nausea;NEONATAL
+913;Pedro Santos;394.77;17;2026-08-27;Nausea,Nausea;ISOLAMENTO
+914;Juliana Lima;376.55;13;2026-09-22;Gripe,Febre;ISOLAMENTO
+915;Pedro Santos;167.69;25;2026-10-01;Febre,Gripe;UTI
+916;Maria Oliveira;411.09;24;2026-06-24;Tosse,Febre;UTI
+917;Maria Oliveira;396.61;14;2025-12-27;Nausea,Infeccao;ENFERMARIA
+918;Carlos Souza;182.33;29;2026-05-21;Febre,Infeccao;ISOLAMENTO
+919;Carlos Souza;447.94;12;2026-05-22;Tosse,Febre;UTI
+920;Maria Oliveira;313.05;13;2026-03-12;Infeccao,Dor de Cabeca;UTI
+921;Lucas Almeida;378.98;8;2026-01-25;Nausea,Gripe;ISOLAMENTO
+922;Lucas Almeida;425.08;25;2026-09-13;Dor de Cabeca,Febre;NEONATAL
+923;Joao Silva;309.97;7;2026-06-25;Tosse,Infeccao;UTI
+924;Carlos Souza;294.62;17;2026-03-05;Tosse,Infeccao;ENFERMARIA
+925;Maria Oliveira;317.13;5;2026-04-14;Infeccao,Nausea;ISOLAMENTO
+926;Carlos Souza;209.36;4;2026-08-22;Nausea,Gripe;UTI
+927;Ana Costa;252.28;4;2026-06-08;Gripe,Febre;UTI
+928;Carlos Souza;420.90;30;2026-10-10;Dor de Cabeca,Nausea;ENFERMARIA
+929;Lucas Almeida;170.13;3;2026-05-27;Tosse,Febre;ENFERMARIA
+930;Maria Oliveira;260.78;4;2026-04-30;Dor de Cabeca,Nausea;ENFERMARIA
+931;Lucas Almeida;318.89;15;2025-11-20;Tosse,Gripe;ENFERMARIA
+932;Pedro Santos;263.47;20;2026-06-11;Tosse,Nausea;ENFERMARIA
+933;Ana Costa;325.25;11;2025-12-21;Tosse,Tosse;NEONATAL
+934;Joao Silva;214.74;11;2026-07-12;Infeccao,Infeccao;UTI
+935;Juliana Lima;279.41;23;2026-04-13;Dor de Cabeca,Infeccao;NEONATAL
+936;Maria Oliveira;218.66;5;2026-05-05;Febre,Febre;ENFERMARIA
+937;Carlos Souza;201.21;5;2026-05-12;Febre,Febre;UTI
+938;Pedro Santos;251.71;29;2025-12-15;Dor de Cabeca,Nausea;ISOLAMENTO
+939;Ana Costa;443.06;15;2026-04-12;Nausea,Infeccao;ISOLAMENTO
+940;Carlos Souza;347.27;2;2026-06-17;Gripe,Febre;UTI
+941;Ana Costa;260.57;24;2025-12-21;Nausea,Tosse;ENFERMARIA
+942;Pedro Santos;328.93;1;2026-04-07;Gripe,Infeccao;ISOLAMENTO
+943;Ana Costa;256.80;21;2026-05-30;Tosse,Dor de Cabeca;NEONATAL
+944;Juliana Lima;185.84;15;2026-02-25;Nausea,Tosse;ISOLAMENTO
+945;Juliana Lima;380.94;16;2026-05-16;Gripe,Tosse;ENFERMARIA
+946;Carlos Souza;158.66;21;2026-01-07;Infeccao,Infeccao;ISOLAMENTO
+947;Ana Costa;237.27;21;2025-12-03;Infeccao,Gripe;ISOLAMENTO
+948;Lucas Almeida;279.30;24;2026-08-25;Tosse,Tosse;NEONATAL
+949;Ana Costa;435.29;13;2026-05-14;Gripe,Dor de Cabeca;NEONATAL
+950;Joao Silva;382.87;19;2026-06-27;Gripe,Gripe;NEONATAL
+951;Joao Silva;186.86;9;2026-05-29;Nausea,Dor de Cabeca;ISOLAMENTO
+952;Joao Silva;185.23;16;2026-04-21;Infeccao,Nausea;ENFERMARIA
+953;Lucas Almeida;231.20;20;2026-07-22;Tosse,Gripe;ENFERMARIA
+954;Lucas Almeida;294.43;20;2026-07-10;Gripe,Nausea;ENFERMARIA
+955;Joao Silva;443.67;5;2026-06-06;Tosse,Febre;ENFERMARIA
+956;Pedro Santos;299.49;1;2026-04-25;Nausea,Infeccao;NEONATAL
+957;Joao Silva;159.08;3;2026-05-13;Febre,Gripe;ENFERMARIA
+958;Maria Oliveira;354.78;12;2026-04-24;Nausea,Infeccao;ENFERMARIA
+959;Lucas Almeida;315.51;8;2026-05-11;Dor de Cabeca,Dor de Cabeca;UTI
+960;Juliana Lima;153.43;21;2026-02-22;Tosse,Febre;UTI
+961;Carlos Souza;299.41;14;2026-02-16;Tosse,Infeccao;NEONATAL
+962;Lucas Almeida;358.10;28;2026-10-29;Nausea,Infeccao;ISOLAMENTO
+963;Ana Costa;447.88;27;2025-12-22;Febre,Tosse;UTI
+964;Carlos Souza;232.49;7;2025-11-15;Nausea,Dor de Cabeca;ENFERMARIA
+965;Juliana Lima;238.96;11;2026-05-27;Infeccao,Nausea;UTI
+966;Lucas Almeida;291.92;18;2026-03-04;Nausea,Febre;ENFERMARIA
+967;Joao Silva;275.88;12;2026-11-02;Infeccao,Febre;ISOLAMENTO
+968;Juliana Lima;266.37;17;2026-11-04;Dor de Cabeca,Infeccao;ISOLAMENTO
+969;Ana Costa;345.96;3;2026-08-16;Dor de Cabeca,Dor de Cabeca;ENFERMARIA
+970;Juliana Lima;444.29;28;2026-02-26;Gripe,Tosse;NEONATAL
+971;Lucas Almeida;310.19;7;2026-05-04;Dor de Cabeca,Nausea;NEONATAL
+972;Pedro Santos;440.64;13;2026-03-01;Dor de Cabeca,Dor de Cabeca;ISOLAMENTO
+973;Juliana Lima;154.28;22;2026-08-21;Dor de Cabeca,Febre;ISOLAMENTO
+974;Juliana Lima;307.37;18;2026-10-30;Gripe,Nausea;ISOLAMENTO
+975;Pedro Santos;406.96;2;2026-08-05;Dor de Cabeca,Infeccao;ISOLAMENTO
+976;Maria Oliveira;279.84;6;2026-07-13;Gripe,Dor de Cabeca;ISOLAMENTO
+977;Lucas Almeida;306.58;4;2026-10-21;Febre,Febre;ENFERMARIA
+978;Carlos Souza;327.49;26;2026-04-02;Gripe,Dor de Cabeca;UTI
+979;Pedro Santos;171.70;11;2026-06-21;Infeccao,Nausea;UTI
+980;Joao Silva;152.06;24;2026-08-23;Dor de Cabeca,Dor de Cabeca;ISOLAMENTO
+981;Ana Costa;406.52;24;2026-06-15;Tosse,Gripe;UTI
+982;Pedro Santos;351.80;7;2026-09-15;Febre,Tosse;UTI
+983;Lucas Almeida;447.21;15;2026-03-06;Febre,Nausea;ENFERMARIA
+984;Ana Costa;445.02;13;2026-06-05;Nausea,Dor de Cabeca;ISOLAMENTO
+985;Maria Oliveira;429.78;14;2026-11-10;Gripe,Infeccao;NEONATAL
+986;Juliana Lima;321.28;12;2026-09-21;Febre,Tosse;NEONATAL
+987;Juliana Lima;335.43;28;2025-12-16;Nausea,Febre;ISOLAMENTO
+988;Maria Oliveira;363.63;11;2026-04-24;Nausea,Infeccao;ENFERMARIA
+989;Pedro Santos;444.28;20;2026-04-16;Febre,Nausea;NEONATAL
+990;Ana Costa;360.29;13;2026-01-11;Tosse,Tosse;ENFERMARIA
+991;Pedro Santos;403.28;8;2026-08-04;Infeccao,Dor de Cabeca;ENFERMARIA
+992;Juliana Lima;399.01;18;2026-06-06;Febre,Gripe;ENFERMARIA
+993;Carlos Souza;289.21;10;2026-02-09;Dor de Cabeca,Febre;NEONATAL
+994;Lucas Almeida;412.63;8;2026-08-19;Nausea,Febre;ENFERMARIA
+995;Carlos Souza;222.54;22;2026-05-22;Dor de Cabeca,Infeccao;NEONATAL
+996;Ana Costa;219.04;5;2025-11-30;Febre,Infeccao;ISOLAMENTO
+997;Carlos Souza;263.14;17;2026-08-28;Infeccao,Febre;ENFERMARIA
+998;Juliana Lima;174.04;3;2026-02-11;Infeccao,Gripe;ISOLAMENTO
+999;Lucas Almeida;293.62;22;2026-04-09;Nausea,Infeccao;UTI
+1000;Lucas Almeida;230.35;27;2026-10-24;Infeccao,Nausea;UTI
