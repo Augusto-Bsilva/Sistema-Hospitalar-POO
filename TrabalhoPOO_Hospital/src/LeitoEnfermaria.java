@@ -9,6 +9,6 @@ public class LeitoEnfermaria extends Leito {
 
     @Override 
     public double calcularFaturaTotal(){
-        return getDiasInternacao()*getCustoBase();
+        return this.diasInternacao * this.custoBase;
     }
 }

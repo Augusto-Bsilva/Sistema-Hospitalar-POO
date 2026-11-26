@@ -8,6 +8,6 @@ public class LeitoUTI extends Leito{
 
     @Override 
     public double calcularFaturaTotal(){
-        return (getDiasInternacao()*getCustoBase()) * 1.5;
+        return (this.diasInternacao * this.custoBase) * 1.5;
     }
 }

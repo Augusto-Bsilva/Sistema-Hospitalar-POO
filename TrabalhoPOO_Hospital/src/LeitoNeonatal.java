@@ -9,6 +9,6 @@ public class LeitoNeonatal extends Leito {
     }
     @Override
     public double calcularFaturaTotal(){
-        return (getCustoBase() * getDiasInternacao()) + taxaIncubadora;
+        return (this.diasInternacao * this.custoBase) + taxaIncubadora;
     }
 }

@@ -5,10 +5,13 @@ public abstract class Leito {
     private int idLeito;
     private String nomePaciente;
     private String tipo;
-    private double custoBase;
-    private int diasInternacao;
     private LocalDate dataEntrada;
-    private List<String> sintomas;
+
+
+
+    protected double custoBase;
+    protected int diasInternacao;
+    protected List<String> sintomas;
 
     public Leito(int idLeito, String nomePaciente, double custoBase, int diasInternacao, LocalDate dataEntrada, String tipo,List<String> sintomas){
             this.idLeito = idLeito;

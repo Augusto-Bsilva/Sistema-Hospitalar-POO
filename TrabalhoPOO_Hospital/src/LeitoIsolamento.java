@@ -11,8 +11,8 @@ public class LeitoIsolamento extends Leito {
 
     @Override 
     public double calcularFaturaTotal(){
-        double custoNormal =  getCustoBase() * getDiasInternacao();
-        double custoEpis = getDiasInternacao() * taxaEpiDiaria;
+        double custoNormal =  this.diasInternacao * this.custoBase;
+        double custoEpis = this.diasInternacao * taxaEpiDiaria;
         return custoNormal + custoEpis;
     }
 }
