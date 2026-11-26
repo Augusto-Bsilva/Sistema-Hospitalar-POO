@@ -1,6 +1,7 @@
 public interface Repositorio {
-    Leito adicionar(Leito l);    
-    Leito buscarPorId(int id);
-    void remover(int id);
-    void salvar();
+    boolean adicionar(Leito leito);
+    boolean remover(int id);
+    Leito buscar(int id);
+    int tamanho();
+    void salvarEmArquivo(String caminhoArquivo);
 }

@@ -1,10 +1,13 @@
 import java.util.List;
 public class App {
     public static void main(String[] args) throws Exception {
-        // Descomente a linha abaixo caso precise gerar os arquivos novamente (Etapa 1)
+        // Descomente a linha para usar cada metodo
+        
         // executarEtapa1();
 
-        executarEtapa2();
+        //executarEtapa2();
+
+        executarEtapa3();
     }
 
     public static void executarEtapa1() {
@@ -80,5 +83,13 @@ public class App {
                 }
             }
         }
+    }
+
+    public static void executarEtapa3() {
+        System.out.println("Carregando 1 milhao de registros (4 threads - ponto otimo da Etapa 2)...");
+        List<Leito> leitos = LeitorDados.lerArquivoConcorrente("dados/gigante_conc.txt", 4);
+
+        Repositorio repositorio = new RepositorioComLock(leitos);
+        MenuInterativo.iniciar(repositorio);
     }
 }
