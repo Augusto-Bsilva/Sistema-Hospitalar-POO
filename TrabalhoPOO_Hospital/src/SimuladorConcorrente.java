@@ -8,10 +8,9 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class SimuladorConcorrente {
+    private static final AtomicInteger geradorNovoId = new AtomicInteger(2_000_000);
     public static void executarSimulacao(Repositorio repo, int numClientes, int operacoesPorCliente) {
         int tamanhoInicial = repo.tamanho();
-        // Gera IDs novos acima de 2 milhões para nunca colidir com os IDs iniciais (1 a 1.000.000)
-        AtomicInteger geradorNovoId = new AtomicInteger(2_000_000);
         AtomicInteger totalAdicionados = new AtomicInteger(0);
         AtomicInteger totalRemovidos = new AtomicInteger(0);
         AtomicInteger totalBuscas = new AtomicInteger(0);

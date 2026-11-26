@@ -86,10 +86,21 @@ public class App {
     }
 
     public static void executarEtapa3() {
-        System.out.println("Carregando 1 milhao de registros (4 threads - ponto otimo da Etapa 2)...");
+        System.out.println("Carregando 1 milhao de registros (4 threads)...");
         List<Leito> leitos = LeitorDados.lerArquivoConcorrente("dados/gigante_conc.txt", 4);
 
-        Repositorio repositorio = new RepositorioComLock(leitos);
-        MenuInterativo.iniciar(repositorio);
+        // 1. Teste com ReentrantReadWriteLock
+        System.out.println("\n================ TESTE 1: LOCKS ================");
+        Repositorio repoLocks = new RepositorioComLock(leitos);
+        SimuladorConcorrente.executarSimulacao(repoLocks, 8, 50_000);
+
+        // 2. Teste com Modelo de Atores (Apache Pekko)
+        System.out.println("\n================ TESTE 2: ATORES (PEKKO) ================");
+        RepositorioComAtores repoAtores = new RepositorioComAtores(leitos);
+        SimuladorConcorrente.executarSimulacao(repoAtores, 8, 50_000);
+
+        // Abre o menu interativo usando o repositorio com Atores
+        MenuInterativo.iniciar(repoAtores);
+        repoAtores.encerrar();
     }
 }
