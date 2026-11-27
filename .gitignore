@@ -30,3 +30,5 @@ bin/
 
 # Ignorar os arquivos de dados gerados (pesados)
 dados/*.txt
+
+target/

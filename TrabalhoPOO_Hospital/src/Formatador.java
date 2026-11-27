@@ -1,3 +1,5 @@
 public interface Formatador {
-    String formatarLinha(Leito l);
+    String formatarLinha(Leito leito);
+
+    String getNomeFormato();
 }

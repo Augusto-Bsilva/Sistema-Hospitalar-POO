@@ -1,9 +1,10 @@
 import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.UncheckedIOException;
 import java.util.HashMap;
 import java.util.List;
-import java.util.Locale;
 import java.util.Map;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 
@@ -20,10 +21,13 @@ public class RepositorioComLock implements Repositorio {
 
     @Override
     public boolean adicionar(Leito leito) {
+        if (leito == null) {
+            throw new IllegalArgumentException("Leito nao pode ser nulo.");
+        }
         lock.writeLock().lock();
         try {
             if (dados.containsKey(leito.getidLeito())) {
-                return false; 
+                return false;
             }
             dados.put(leito.getidLeito(), leito);
             return true;
@@ -63,24 +67,22 @@ public class RepositorioComLock implements Repositorio {
     }
 
     @Override
-    public void salvarEmArquivo(String caminhoArquivo) {
+    public void salvarEmArquivo(String caminhoArquivo, Formatador formatador) {
+        if (formatador == null) {
+            throw new IllegalArgumentException("Formatador nao pode ser nulo.");
+        }
+        File pai = new File(caminhoArquivo).getParentFile();
+        if (pai != null && !pai.exists()) {
+            pai.mkdirs();
+        }
         lock.readLock().lock();
         try (BufferedWriter escrita = new BufferedWriter(new FileWriter(caminhoArquivo))) {
             for (Leito l : dados.values()) {
-                String sintomasFormatados = String.join(",", l.getSintomas());
-                String linha = String.format(Locale.US, "%d;%s;%.2f;%d;%s;%s;%s",
-                        l.getidLeito(),
-                        l.getNomePaciente(),
-                        l.getCustoBase(),
-                        l.getDiasInternacao(),
-                        l.getDataEntrada().toString(),
-                        sintomasFormatados,
-                        l.getTipo());
-                escrita.write(linha);
+                escrita.write(formatador.formatarLinha(l));
                 escrita.newLine();
             }
         } catch (IOException e) {
-            System.err.println("Erro ao salvar arquivo: " + e.getMessage());
+            throw new UncheckedIOException("Erro ao salvar arquivo: " + caminhoArquivo, e);
         } finally {
             lock.readLock().unlock();
         }

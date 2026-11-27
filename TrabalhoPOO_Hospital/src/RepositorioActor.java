@@ -1,9 +1,9 @@
 import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.List;
-import java.util.Locale;
 import java.util.Map;
 import java.util.Optional;
 import org.apache.pekko.actor.typed.Behavior;
@@ -39,7 +39,7 @@ public class RepositorioActor extends AbstractBehavior<ComandoRepositorio> {
     }
 
     private Behavior<ComandoRepositorio> onAdicionar(ComandoRepositorio.Adicionar cmd) {
-        if (dados.containsKey(cmd.leito.getidLeito())) {
+        if (cmd.leito == null || dados.containsKey(cmd.leito.getidLeito())) {
             cmd.replyTo.tell(false);
         } else {
             dados.put(cmd.leito.getidLeito(), cmd.leito);
@@ -65,18 +65,13 @@ public class RepositorioActor extends AbstractBehavior<ComandoRepositorio> {
     }
 
     private Behavior<ComandoRepositorio> onSalvar(ComandoRepositorio.Salvar cmd) {
+        File pai = new File(cmd.caminhoArquivo).getParentFile();
+        if (pai != null && !pai.exists()) {
+            pai.mkdirs();
+        }
         try (BufferedWriter escrita = new BufferedWriter(new FileWriter(cmd.caminhoArquivo))) {
             for (Leito l : dados.values()) {
-                String sintomasFormatados = String.join(",", l.getSintomas());
-                String linha = String.format(Locale.US, "%d;%s;%.2f;%d;%s;%s;%s",
-                        l.getidLeito(),
-                        l.getNomePaciente(),
-                        l.getCustoBase(),
-                        l.getDiasInternacao(),
-                        l.getDataEntrada().toString(),
-                        sintomasFormatados,
-                        l.getTipo());
-                escrita.write(linha);
+                escrita.write(cmd.formatador.formatarLinha(l));
                 escrita.newLine();
             }
             cmd.replyTo.tell(true);

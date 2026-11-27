@@ -42,10 +42,12 @@ public interface ComandoRepositorio {
 
     final class Salvar implements ComandoRepositorio {
         public final String caminhoArquivo;
+        public final Formatador formatador;
         public final ActorRef<Boolean> replyTo;
 
-        public Salvar(String caminhoArquivo, ActorRef<Boolean> replyTo) {
+        public Salvar(String caminhoArquivo, Formatador formatador, ActorRef<Boolean> replyTo) {
             this.caminhoArquivo = caminhoArquivo;
+            this.formatador = formatador;
             this.replyTo = replyTo;
         }
     }
