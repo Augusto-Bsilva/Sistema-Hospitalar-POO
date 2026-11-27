@@ -96,6 +96,6 @@ Todas as medições em `App.java` utilizam `System.nanoTime()`, com descarte de 
    - **Consistência:** **100% validada** (`final = inicial + adicionados - removidos` e integridade amostral de IDs) em todas as configurações de `RepositorioSequencial`, `RepositorioComLock` e `RepositorioComAtores`.
    - **Locks vs. Atores (Pekko):** Com 8 clientes, `RepositorioComLock` (`ReentrantReadWriteLock`) entregou **1.626.985 op/s** (`0,246 ± 0,015 s`), cerca de **4,2x mais vazão** que `RepositorioComAtores` (**390.033 op/s**, `1,026 ± 0,020 s`), que por sua vez apresentou ganho de **2,62x** ao sair de 1 para 8 clientes (efeito de *pipelining* na *mailbox*) eliminando travas manuais. Na persistência de `1.000.000` de registros em CSV, as três abordagens empataram (`0,649 s` a `0,663 s`) por limitação de I/O.
 
-Para análise detalhada, diagrama de classes e tabelas completas, consulte [`Relatorio_Comum.md`](Relatorio_Comum.md).
+Para análise detalhada, diagrama de classes e tabelas completas, consulte o Relatório Geral.
 
 
